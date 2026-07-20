@@ -1,0 +1,9 @@
+.edge-research-profile/
+captures/
+analysis/
+analysis-output/
+*.log
+master-data-output/*.msgpack
+master-data-output/*.bin
+master-data-output/
+*.dat
