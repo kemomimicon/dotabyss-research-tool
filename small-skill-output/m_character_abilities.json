@@ -1,0 +1,1210 @@
+﻿[
+    {
+        "id":  110000101,
+        "m_character_id":  1100001,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "心眼開明",
+        "ability_no":  10001,
+        "order":  1
+    },
+    {
+        "id":  110000102,
+        "m_character_id":  1100001,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "神速一閃",
+        "ability_no":  10002,
+        "order":  2
+    },
+    {
+        "id":  110000201,
+        "m_character_id":  1100002,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "神の祝福",
+        "ability_no":  10003,
+        "order":  1
+    },
+    {
+        "id":  110000202,
+        "m_character_id":  1100002,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "士気高揚",
+        "ability_no":  10004,
+        "order":  2
+    },
+    {
+        "id":  110000301,
+        "m_character_id":  1100003,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "クイックステップ",
+        "ability_no":  10117,
+        "order":  1
+    },
+    {
+        "id":  110000302,
+        "m_character_id":  1100003,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "鉄槌一閃",
+        "ability_no":  10118,
+        "order":  2
+    },
+    {
+        "id":  110000401,
+        "m_character_id":  1100004,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "巫女の底力",
+        "ability_no":  10119,
+        "order":  1
+    },
+    {
+        "id":  110000402,
+        "m_character_id":  1100004,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "観天望気",
+        "ability_no":  10120,
+        "order":  2
+    },
+    {
+        "id":  110000501,
+        "m_character_id":  1100005,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "エルフの弓術",
+        "ability_no":  10121,
+        "order":  1
+    },
+    {
+        "id":  110000502,
+        "m_character_id":  1100005,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "精密射撃",
+        "ability_no":  10122,
+        "order":  2
+    },
+    {
+        "id":  110000601,
+        "m_character_id":  1100006,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "勝利への啓示",
+        "ability_no":  10123,
+        "order":  1
+    },
+    {
+        "id":  110000602,
+        "m_character_id":  1100006,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "天運の託宣",
+        "ability_no":  10124,
+        "order":  2
+    },
+    {
+        "id":  110000701,
+        "m_character_id":  1100007,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "対人弾圧",
+        "ability_no":  10125,
+        "order":  1
+    },
+    {
+        "id":  110000702,
+        "m_character_id":  1100007,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "物理的強制執行",
+        "ability_no":  10126,
+        "order":  2
+    },
+    {
+        "id":  110000801,
+        "m_character_id":  1100008,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "よっしゃ、いくぞー！",
+        "ability_no":  10127,
+        "order":  1
+    },
+    {
+        "id":  110000802,
+        "m_character_id":  1100008,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "推し活パワー！",
+        "ability_no":  10128,
+        "order":  2
+    },
+    {
+        "id":  110000901,
+        "m_character_id":  1100009,
+        "asset_id":  "Ability_Mana_01",
+        "name":  "鉱石マイスター",
+        "ability_no":  10129,
+        "order":  1
+    },
+    {
+        "id":  110000902,
+        "m_character_id":  1100009,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "鉱脈の鼓動",
+        "ability_no":  10130,
+        "order":  2
+    },
+    {
+        "id":  110001001,
+        "m_character_id":  1100010,
+        "asset_id":  "Ability_Heal_01",
+        "name":  "不朽不滅",
+        "ability_no":  10131,
+        "order":  1
+    },
+    {
+        "id":  110001002,
+        "m_character_id":  1100010,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "鉄壁の肉体",
+        "ability_no":  10132,
+        "order":  2
+    },
+    {
+        "id":  110001101,
+        "m_character_id":  1100011,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "ロックオン",
+        "ability_no":  10103,
+        "order":  1
+    },
+    {
+        "id":  110001102,
+        "m_character_id":  1100011,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "ウィークポイント",
+        "ability_no":  10104,
+        "order":  2
+    },
+    {
+        "id":  110001201,
+        "m_character_id":  1100012,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "ヘッドショット",
+        "ability_no":  10133,
+        "order":  1
+    },
+    {
+        "id":  110001202,
+        "m_character_id":  1100012,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "傭兵の心得",
+        "ability_no":  10134,
+        "order":  2
+    },
+    {
+        "id":  110001301,
+        "m_character_id":  1100013,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "烈火の剣舞",
+        "ability_no":  10135,
+        "order":  1
+    },
+    {
+        "id":  110001302,
+        "m_character_id":  1100013,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "フレイム・オーラ",
+        "ability_no":  10136,
+        "order":  2
+    },
+    {
+        "id":  110001401,
+        "m_character_id":  1100014,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "生命の蕾",
+        "ability_no":  10137,
+        "order":  1
+    },
+    {
+        "id":  110001402,
+        "m_character_id":  1100014,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "最後の花弁",
+        "ability_no":  10138,
+        "order":  2
+    },
+    {
+        "id":  110001501,
+        "m_character_id":  1100015,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "魔石細工の灯火",
+        "ability_no":  10139,
+        "order":  1
+    },
+    {
+        "id":  110001502,
+        "m_character_id":  1100015,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "人見知り少女の想い",
+        "ability_no":  10140,
+        "order":  2
+    },
+    {
+        "id":  110001601,
+        "m_character_id":  1100016,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "氷の矢",
+        "ability_no":  10141,
+        "order":  1
+    },
+    {
+        "id":  110001602,
+        "m_character_id":  1100016,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "心を射貫く笑顔",
+        "ability_no":  10142,
+        "order":  2
+    },
+    {
+        "id":  120000101,
+        "m_character_id":  1200001,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "騎士の覚悟",
+        "ability_no":  10005,
+        "order":  1
+    },
+    {
+        "id":  120000102,
+        "m_character_id":  1200001,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "不屈の闘志",
+        "ability_no":  10006,
+        "order":  2
+    },
+    {
+        "id":  120000201,
+        "m_character_id":  1200002,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "フォーカス",
+        "ability_no":  10007,
+        "order":  1
+    },
+    {
+        "id":  120000202,
+        "m_character_id":  1200002,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "火炎魔術師",
+        "ability_no":  10008,
+        "order":  2
+    },
+    {
+        "id":  120000301,
+        "m_character_id":  1200003,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "出血大サービス",
+        "ability_no":  10009,
+        "order":  1
+    },
+    {
+        "id":  120000302,
+        "m_character_id":  1200003,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "備蓄万全",
+        "ability_no":  10010,
+        "order":  2
+    },
+    {
+        "id":  120000401,
+        "m_character_id":  1200004,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "宝石蒐集",
+        "ability_no":  10111,
+        "order":  1
+    },
+    {
+        "id":  120000402,
+        "m_character_id":  1200004,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "盗賊の本領",
+        "ability_no":  10112,
+        "order":  2
+    },
+    {
+        "id":  120000501,
+        "m_character_id":  1200005,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "ゴシップ情報",
+        "ability_no":  10101,
+        "order":  1
+    },
+    {
+        "id":  120000502,
+        "m_character_id":  1200005,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "特ダネを求めて",
+        "ability_no":  10102,
+        "order":  2
+    },
+    {
+        "id":  120000601,
+        "m_character_id":  1200006,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "エルドラーナ共和国警備隊",
+        "ability_no":  10143,
+        "order":  1
+    },
+    {
+        "id":  120000602,
+        "m_character_id":  1200006,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "ビキニの誘惑",
+        "ability_no":  10144,
+        "order":  2
+    },
+    {
+        "id":  120000801,
+        "m_character_id":  1200008,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "副官の矜持",
+        "ability_no":  10145,
+        "order":  1
+    },
+    {
+        "id":  120000802,
+        "m_character_id":  1200008,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "先声奪人",
+        "ability_no":  10146,
+        "order":  2
+    },
+    {
+        "id":  120001101,
+        "m_character_id":  1200011,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "淑女の祝福",
+        "ability_no":  10113,
+        "order":  1
+    },
+    {
+        "id":  120001102,
+        "m_character_id":  1200011,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "慈愛の加護",
+        "ability_no":  10114,
+        "order":  2
+    },
+    {
+        "id":  120001201,
+        "m_character_id":  1200012,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "暗殺術",
+        "ability_no":  10147,
+        "order":  1
+    },
+    {
+        "id":  120001202,
+        "m_character_id":  1200012,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "黒の舞踏",
+        "ability_no":  10148,
+        "order":  2
+    },
+    {
+        "id":  120001301,
+        "m_character_id":  1200013,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "闇堕ちの結界",
+        "ability_no":  10149,
+        "order":  1
+    },
+    {
+        "id":  120001302,
+        "m_character_id":  1200013,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "鎖に繋がれし因果",
+        "ability_no":  10150,
+        "order":  2
+    },
+    {
+        "id":  120001401,
+        "m_character_id":  1200014,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "年の功",
+        "ability_no":  10115,
+        "order":  1
+    },
+    {
+        "id":  120001402,
+        "m_character_id":  1200014,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "ドワーフの加護",
+        "ability_no":  10116,
+        "order":  2
+    },
+    {
+        "id":  120001501,
+        "m_character_id":  1200015,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "焔の揺らめき",
+        "ability_no":  10151,
+        "order":  1
+    },
+    {
+        "id":  120001502,
+        "m_character_id":  1200015,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "猛火追撃",
+        "ability_no":  10152,
+        "order":  2
+    },
+    {
+        "id":  120001601,
+        "m_character_id":  1200016,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "騎士道",
+        "ability_no":  10086,
+        "order":  1
+    },
+    {
+        "id":  120001602,
+        "m_character_id":  1200016,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "イージスガード",
+        "ability_no":  10087,
+        "order":  2
+    },
+    {
+        "id":  120001701,
+        "m_character_id":  1200017,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "私も一緒に戦いたい",
+        "ability_no":  10088,
+        "order":  1
+    },
+    {
+        "id":  120001702,
+        "m_character_id":  1200017,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "帰郷への意志",
+        "ability_no":  10089,
+        "order":  2
+    },
+    {
+        "id":  120001801,
+        "m_character_id":  1200018,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "野生",
+        "ability_no":  10090,
+        "order":  1
+    },
+    {
+        "id":  120001802,
+        "m_character_id":  1200018,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "元気",
+        "ability_no":  10091,
+        "order":  2
+    },
+    {
+        "id":  120001901,
+        "m_character_id":  1200019,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "砂空を舞う魔族",
+        "ability_no":  10162,
+        "order":  1
+    },
+    {
+        "id":  120001902,
+        "m_character_id":  1200019,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "太古の秘術",
+        "ability_no":  10163,
+        "order":  2
+    },
+    {
+        "id":  130000101,
+        "m_character_id":  1300001,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "ダンシング・フープ",
+        "ability_no":  10011,
+        "order":  1
+    },
+    {
+        "id":  130000102,
+        "m_character_id":  1300001,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "盛り上がってきました！",
+        "ability_no":  10012,
+        "order":  2
+    },
+    {
+        "id":  130000103,
+        "m_character_id":  1300001,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "みんなも踊って！",
+        "ability_no":  10013,
+        "order":  3
+    },
+    {
+        "id":  130000301,
+        "m_character_id":  1300003,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "ウルフショット",
+        "ability_no":  10017,
+        "order":  1
+    },
+    {
+        "id":  130000302,
+        "m_character_id":  1300003,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "銀の弾丸",
+        "ability_no":  10018,
+        "order":  2
+    },
+    {
+        "id":  130000303,
+        "m_character_id":  1300003,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "銀狼の鋭牙",
+        "ability_no":  10019,
+        "order":  3
+    },
+    {
+        "id":  130000401,
+        "m_character_id":  1300004,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "ポーション投擲",
+        "ability_no":  10020,
+        "order":  1
+    },
+    {
+        "id":  130000402,
+        "m_character_id":  1300004,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "不安定な錬金薬",
+        "ability_no":  10021,
+        "order":  2
+    },
+    {
+        "id":  130000403,
+        "m_character_id":  1300004,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "古の血",
+        "ability_no":  10022,
+        "order":  3
+    },
+    {
+        "id":  130000501,
+        "m_character_id":  1300005,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "ソウルコネクト",
+        "ability_no":  10023,
+        "order":  1
+    },
+    {
+        "id":  130000502,
+        "m_character_id":  1300005,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "スピリットエコー",
+        "ability_no":  10024,
+        "order":  2
+    },
+    {
+        "id":  130000503,
+        "m_character_id":  1300005,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "ノワールの鼓舞",
+        "ability_no":  10025,
+        "order":  3
+    },
+    {
+        "id":  130000601,
+        "m_character_id":  1300006,
+        "asset_id":  "Ability_SpecialAssist_01",
+        "name":  "魔石採掘",
+        "ability_no":  10026,
+        "order":  1
+    },
+    {
+        "id":  130000602,
+        "m_character_id":  1300006,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "アタックサポート",
+        "ability_no":  10027,
+        "order":  2
+    },
+    {
+        "id":  130000603,
+        "m_character_id":  1300006,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "固い意志",
+        "ability_no":  10028,
+        "order":  3
+    },
+    {
+        "id":  130000701,
+        "m_character_id":  1300007,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "炎の弓使い",
+        "ability_no":  10029,
+        "order":  1
+    },
+    {
+        "id":  130000702,
+        "m_character_id":  1300007,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "スナイプショット",
+        "ability_no":  10030,
+        "order":  2
+    },
+    {
+        "id":  130000703,
+        "m_character_id":  1300007,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "バーニングパニッシュ",
+        "ability_no":  10031,
+        "order":  3
+    },
+    {
+        "id":  130000801,
+        "m_character_id":  1300008,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "空中戦",
+        "ability_no":  10092,
+        "order":  1
+    },
+    {
+        "id":  130000802,
+        "m_character_id":  1300008,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "アンドロイド",
+        "ability_no":  10093,
+        "order":  2
+    },
+    {
+        "id":  130000803,
+        "m_character_id":  1300008,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "リチャージャー",
+        "ability_no":  10094,
+        "order":  3
+    },
+    {
+        "id":  130000901,
+        "m_character_id":  1300009,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "氷の魔術師",
+        "ability_no":  10095,
+        "order":  1
+    },
+    {
+        "id":  130000902,
+        "m_character_id":  1300009,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "凍てつく魔力",
+        "ability_no":  10096,
+        "order":  2
+    },
+    {
+        "id":  130000903,
+        "m_character_id":  1300009,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "絶対零度の楔",
+        "ability_no":  10097,
+        "order":  3
+    },
+    {
+        "id":  130001001,
+        "m_character_id":  1300010,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "一矢一閃",
+        "ability_no":  10098,
+        "order":  1
+    },
+    {
+        "id":  130001002,
+        "m_character_id":  1300010,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "猟人の罠",
+        "ability_no":  10099,
+        "order":  2
+    },
+    {
+        "id":  130001003,
+        "m_character_id":  1300010,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "ムードメーカー",
+        "ability_no":  10100,
+        "order":  3
+    },
+    {
+        "id":  130001101,
+        "m_character_id":  1300011,
+        "asset_id":  "Ability_SpecialAssist_01",
+        "name":  "スキルストリーミング",
+        "ability_no":  10032,
+        "order":  1
+    },
+    {
+        "id":  130001102,
+        "m_character_id":  1300011,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "超人気ストリーマー",
+        "ability_no":  10033,
+        "order":  2
+    },
+    {
+        "id":  130001103,
+        "m_character_id":  1300011,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "ぼくならできる！",
+        "ability_no":  10034,
+        "order":  3
+    },
+    {
+        "id":  130001401,
+        "m_character_id":  1300014,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "海賊流射撃術",
+        "ability_no":  10038,
+        "order":  1
+    },
+    {
+        "id":  130001402,
+        "m_character_id":  1300014,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "砲撃術",
+        "ability_no":  10039,
+        "order":  2
+    },
+    {
+        "id":  130001403,
+        "m_character_id":  1300014,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "部隊指揮",
+        "ability_no":  10040,
+        "order":  3
+    },
+    {
+        "id":  130001501,
+        "m_character_id":  1300015,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "炎の剣士",
+        "ability_no":  10041,
+        "order":  1
+    },
+    {
+        "id":  130001502,
+        "m_character_id":  1300015,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "イグニッション",
+        "ability_no":  10042,
+        "order":  2
+    },
+    {
+        "id":  130001503,
+        "m_character_id":  1300015,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "ブレイズエッジ",
+        "ability_no":  10043,
+        "order":  3
+    },
+    {
+        "id":  130001601,
+        "m_character_id":  1300016,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "水霊の加護",
+        "ability_no":  10044,
+        "order":  1
+    },
+    {
+        "id":  130001602,
+        "m_character_id":  1300016,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "明鏡止水",
+        "ability_no":  10045,
+        "order":  2
+    },
+    {
+        "id":  130001603,
+        "m_character_id":  1300016,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "鏡花水月",
+        "ability_no":  10046,
+        "order":  3
+    },
+    {
+        "id":  130001901,
+        "m_character_id":  1300019,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "草魔術",
+        "ability_no":  10050,
+        "order":  1
+    },
+    {
+        "id":  130001902,
+        "m_character_id":  1300019,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "光合成",
+        "ability_no":  10051,
+        "order":  2
+    },
+    {
+        "id":  130001903,
+        "m_character_id":  1300019,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "植物使い",
+        "ability_no":  10052,
+        "order":  3
+    },
+    {
+        "id":  130002001,
+        "m_character_id":  1300020,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "魔導炉",
+        "ability_no":  10053,
+        "order":  1
+    },
+    {
+        "id":  130002002,
+        "m_character_id":  1300020,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "魔法人形",
+        "ability_no":  10054,
+        "order":  2
+    },
+    {
+        "id":  130002003,
+        "m_character_id":  1300020,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "クロックワーク",
+        "ability_no":  10055,
+        "order":  3
+    },
+    {
+        "id":  130002101,
+        "m_character_id":  1300021,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "氷の刃",
+        "ability_no":  10056,
+        "order":  1
+    },
+    {
+        "id":  130002102,
+        "m_character_id":  1300021,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "ノブレスオブリージュ",
+        "ability_no":  10057,
+        "order":  2
+    },
+    {
+        "id":  130002103,
+        "m_character_id":  1300021,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "エヴェイユ・ドゥ・グラス",
+        "ability_no":  10058,
+        "order":  3
+    },
+    {
+        "id":  130002301,
+        "m_character_id":  1300023,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "ヒールデリバリー",
+        "ability_no":  10062,
+        "order":  1
+    },
+    {
+        "id":  130002302,
+        "m_character_id":  1300023,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "看板娘",
+        "ability_no":  10063,
+        "order":  2
+    },
+    {
+        "id":  130002303,
+        "m_character_id":  1300023,
+        "asset_id":  "Ability_Mana_01",
+        "name":  "マナデリバリー",
+        "ability_no":  10064,
+        "order":  3
+    },
+    {
+        "id":  130002401,
+        "m_character_id":  1300024,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "スイートギフト",
+        "ability_no":  10065,
+        "order":  1
+    },
+    {
+        "id":  130002402,
+        "m_character_id":  1300024,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "清潔なお菓子工房",
+        "ability_no":  10066,
+        "order":  2
+    },
+    {
+        "id":  130002403,
+        "m_character_id":  1300024,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "パティシエール",
+        "ability_no":  10067,
+        "order":  3
+    },
+    {
+        "id":  130002601,
+        "m_character_id":  1300026,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "妖刀",
+        "ability_no":  10071,
+        "order":  1
+    },
+    {
+        "id":  130002602,
+        "m_character_id":  1300026,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "妖気解放",
+        "ability_no":  10072,
+        "order":  2
+    },
+    {
+        "id":  130002603,
+        "m_character_id":  1300026,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "神速の剣技",
+        "ability_no":  10073,
+        "order":  3
+    },
+    {
+        "id":  130002701,
+        "m_character_id":  1300027,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "水霊の癒し",
+        "ability_no":  10074,
+        "order":  1
+    },
+    {
+        "id":  130002702,
+        "m_character_id":  1300027,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "精霊の弓",
+        "ability_no":  10075,
+        "order":  2
+    },
+    {
+        "id":  130002703,
+        "m_character_id":  1300027,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "アクアヴェール",
+        "ability_no":  10076,
+        "order":  3
+    },
+    {
+        "id":  130002901,
+        "m_character_id":  1300029,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "鬼の盾",
+        "ability_no":  10080,
+        "order":  1
+    },
+    {
+        "id":  130002902,
+        "m_character_id":  1300029,
+        "asset_id":  "Ability_Defense_01",
+        "name":  "守りの型",
+        "ability_no":  10081,
+        "order":  2
+    },
+    {
+        "id":  130002903,
+        "m_character_id":  1300029,
+        "asset_id":  "Ability_Heal_01",
+        "name":  "不屈の魂",
+        "ability_no":  10082,
+        "order":  3
+    },
+    {
+        "id":  130003001,
+        "m_character_id":  1300030,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "メイドステップ",
+        "ability_no":  10083,
+        "order":  1
+    },
+    {
+        "id":  130003002,
+        "m_character_id":  1300030,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "メイドの心得",
+        "ability_no":  10084,
+        "order":  2
+    },
+    {
+        "id":  130003003,
+        "m_character_id":  1300030,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "ティータイム",
+        "ability_no":  10085,
+        "order":  3
+    },
+    {
+        "id":  130003101,
+        "m_character_id":  1300031,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "式神の恩恵",
+        "ability_no":  10105,
+        "order":  1
+    },
+    {
+        "id":  130003102,
+        "m_character_id":  1300031,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "形代の導き",
+        "ability_no":  10106,
+        "order":  2
+    },
+    {
+        "id":  130003103,
+        "m_character_id":  1300031,
+        "asset_id":  "Ability_ConditionResist_01",
+        "name":  "破邪の結界",
+        "ability_no":  10107,
+        "order":  3
+    },
+    {
+        "id":  130003201,
+        "m_character_id":  1300032,
+        "asset_id":  "Ability_SpecialAssist_01",
+        "name":  "激励の鎚",
+        "ability_no":  10108,
+        "order":  1
+    },
+    {
+        "id":  130003202,
+        "m_character_id":  1300032,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "鍛冶師の恵み",
+        "ability_no":  10109,
+        "order":  2
+    },
+    {
+        "id":  130003203,
+        "m_character_id":  1300032,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "犬っ子エール",
+        "ability_no":  10110,
+        "order":  3
+    },
+    {
+        "id":  130003301,
+        "m_character_id":  1300033,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "英雄のワルツ",
+        "ability_no":  10153,
+        "order":  1
+    },
+    {
+        "id":  130003302,
+        "m_character_id":  1300033,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "破滅のディルジ",
+        "ability_no":  10154,
+        "order":  2
+    },
+    {
+        "id":  130003303,
+        "m_character_id":  1300033,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "幸運のハーモニー",
+        "ability_no":  10155,
+        "order":  3
+    },
+    {
+        "id":  130003401,
+        "m_character_id":  1300034,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "蝶の舞",
+        "ability_no":  10159,
+        "order":  1
+    },
+    {
+        "id":  130003402,
+        "m_character_id":  1300034,
+        "asset_id":  "Ability_Critical_01",
+        "name":  "天命の掌握",
+        "ability_no":  10160,
+        "order":  2
+    },
+    {
+        "id":  130003403,
+        "m_character_id":  1300034,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "不朽の光明",
+        "ability_no":  10161,
+        "order":  3
+    },
+    {
+        "id":  130003501,
+        "m_character_id":  1300035,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "ぶち上がり☆デビルスカイ",
+        "ability_no":  10164,
+        "order":  1
+    },
+    {
+        "id":  130003502,
+        "m_character_id":  1300035,
+        "asset_id":  "Ability_ConditionAttack_01",
+        "name":  "つらたん呪縛",
+        "ability_no":  10165,
+        "order":  2
+    },
+    {
+        "id":  130003503,
+        "m_character_id":  1300035,
+        "asset_id":  "Ability_Manatype_Grant",
+        "name":  "おけまるトラップ",
+        "ability_no":  10166,
+        "order":  3
+    },
+    {
+        "id":  130003701,
+        "m_character_id":  1300037,
+        "asset_id":  "Ability_SpecialAttack_01",
+        "name":  "星詠み",
+        "ability_no":  10167,
+        "order":  1
+    },
+    {
+        "id":  130003702,
+        "m_character_id":  1300037,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "スターオラクル",
+        "ability_no":  10168,
+        "order":  2
+    },
+    {
+        "id":  130003703,
+        "m_character_id":  1300037,
+        "asset_id":  "Ability_Attack_01",
+        "name":  "星の煌めき",
+        "ability_no":  10169,
+        "order":  3
+    },
+    {
+        "id":  130004101,
+        "m_character_id":  1300041,
+        "asset_id":  "Ability_SpecialAssist_01",
+        "name":  "抜けない騎士道精神",
+        "ability_no":  10156,
+        "order":  1
+    },
+    {
+        "id":  130004102,
+        "m_character_id":  1300041,
+        "asset_id":  "Ability_Mana_01",
+        "name":  "一攫千金の情熱",
+        "ability_no":  10157,
+        "order":  2
+    },
+    {
+        "id":  130004103,
+        "m_character_id":  1300041,
+        "asset_id":  "Ability_Reward_01",
+        "name":  "トレジャーハンター",
+        "ability_no":  10158,
+        "order":  3
+    }
+]

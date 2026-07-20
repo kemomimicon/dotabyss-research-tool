@@ -1,0 +1,362 @@
+﻿[
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "108801000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    }
+]

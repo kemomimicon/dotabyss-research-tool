@@ -1,0 +1,902 @@
+﻿[
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "120"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "130"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "140"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "150"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "160"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.THROW.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "325"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "350"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "375"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "400"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "REVIVE.HEAL_FIXED",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "102301000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    }
+]

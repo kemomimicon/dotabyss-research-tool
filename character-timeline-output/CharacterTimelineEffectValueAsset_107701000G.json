@@ -1,0 +1,992 @@
+﻿[
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "40"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "47"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "54"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "61"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "68"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "70"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "72"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "74"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "76"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "2"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "80"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "40"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "125"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "47"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "148"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "54"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "171"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "61"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "194"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "68"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "217"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "70"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "222"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "72"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "227"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "74"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "232"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "76"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "237"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "80"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  2,
+        "Key":  "PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "250"
+    },
+    {
+        "CharacterId":  "107701000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    }
+]

@@ -1,0 +1,542 @@
+﻿[
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "75"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "89"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "103"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "117"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "131"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "134"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "137"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "140"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "143"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "150"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "75"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "89"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "103"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "117"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "131"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "134"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "137"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "140"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "143"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "150"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRITICALUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "106301001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.CRESTPASSION.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    }
+]

@@ -1,0 +1,362 @@
+﻿[
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "5"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "5.9"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "6.8"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "7.7"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "8.6"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "8.8"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9.2"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9.4"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "10"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "5"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "357"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "5.9"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "414"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "6.8"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "471"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "7.7"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "528"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "8.6"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "542"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "8.8"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "556"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "570"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9.2"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "584"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "9.4"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "600"
+    },
+    {
+        "CharacterId":  "106401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "10"
+    }
+]

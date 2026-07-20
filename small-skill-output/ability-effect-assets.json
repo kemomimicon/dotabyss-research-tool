@@ -1,0 +1,4714 @@
+﻿[
+    {
+        "AbilityEffectAssetId":  10001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10008,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10011,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10101,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10102,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10103,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10104,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10105,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10106,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10107,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10108,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10109,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10110,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10111,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10112,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10113,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10114,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10115,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10116,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10117,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10156,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10501,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10511,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10521,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10531,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10541,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  10601,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11002,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11004,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11005,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11008,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11011,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11013,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11015,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11016,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11017,
+        "EffectCode":  "AppendSkill",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11020,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "SucceedRecover",
+        "SituationCode":  "GiveRecovery",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11021,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11022,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11023,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11025,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11026,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11027,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11028,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11029,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11030,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11031,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11032,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11033,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11034,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11035,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11036,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11037,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11038,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11039,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11040,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11041,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  11042,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13008,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13011,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13015,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13016,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13017,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13020,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13021,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13022,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13023,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13025,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13026,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13027,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13028,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13029,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13030,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13031,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13032,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13033,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13034,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13035,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  13036,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16008,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16011,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16015,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16016,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16017,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16020,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16021,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16022,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16023,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16025,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16026,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  16027,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  19001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  19002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  19003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  19004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  19005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  19006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  20001,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20003,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20004,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20007,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20008,
+        "EffectCode":  "SummonParameterAdditionRate",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20010,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20011,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20015,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20016,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20017,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20020,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ServantSummonExist",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20021,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20022,
+        "EffectCode":  "SummonParameterAdditionRate",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20023,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20025,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20026,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20027,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20028,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20029,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20030,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20031,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20032,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Avoidance",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20033,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20034,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20035,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20036,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration;Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  20037,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20040,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20041,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20042,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20043,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20044,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20045,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20046,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20047,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20048,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20049,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20050,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20051,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20052,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20053,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20054,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20055,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20056,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20057,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20058,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20059,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20060,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20061,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20062,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20063,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20064,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20065,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20066,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20067,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20068,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20069,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20070,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20071,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20072,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20073,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20074,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20075,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20076,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20077,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20078,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20079,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20080,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20081,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20082,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20083,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20084,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20085,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20086,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20087,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20088,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20089,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20090,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20091,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20092,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20093,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20094,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20095,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20096,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20097,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20098,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20099,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20100,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20101,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20102,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20103,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20104,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20105,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20106,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20107,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20108,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20109,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20110,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20111,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20112,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20113,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20114,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20115,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20116,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20117,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20118,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20119,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20120,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20121,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20122,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20123,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20124,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20125,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20126,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20127,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20131,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20132,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20133,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Avoidance",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20134,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20135,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20136,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20138,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20140,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20141,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20143,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20145,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20146,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20147,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20148,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20149,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20150,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20154,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20155,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20156,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20157,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20158,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20159,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20160,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20163,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20164,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20165,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20166,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20167,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "SucceedRecover",
+        "SituationCode":  "GiveRecovery",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20168,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20169,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20170,
+        "EffectCode":  "HpLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20172,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20174,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20175,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20176,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20177,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20178,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20179,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20180,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20181,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20182,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20183,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20184,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20185,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20186,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20187,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "OreMining",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20188,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20189,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20190,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20191,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20192,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20193,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20194,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20195,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20196,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20197,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20198,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20199,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20200,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20201,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20202,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20203,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20204,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20205,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20206,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20207,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20208,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20209,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20223,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveRecovery",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20225,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20226,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20227,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20228,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20229,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "GiveRecovery",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20230,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20231,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20232,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20233,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20234,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20235,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20236,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20243,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20244,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20245,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20249,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20250,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20251,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20252,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20253,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20254,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20257,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20258,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20260,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20261,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20262,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20263,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20264,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20265,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20267,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20268,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20269,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20270,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20271,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20272,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20273,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20274,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20275,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20276,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20277,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20278,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20279,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20280,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20281,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20282,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20284,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20286,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20287,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20299,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20303,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DestroyEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20305,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20306,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20307,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20308,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20309,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20310,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20311,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20312,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20313,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20314,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20315,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20316,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20317,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20318,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20319,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20320,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20321,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20322,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20323,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "DeadEnemy",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20324,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20325,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20326,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20327,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20328,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20329,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20330,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20331,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20332,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20333,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "OtherAllyActivateActionSkill",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20334,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "NormalAttackCount",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20335,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20336,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20337,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20338,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20339,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20340,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20341,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  20342,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30001,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30002,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30003,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30011,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30012,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  30013,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50001,
+        "EffectCode":  "ActionPattern",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50005,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  50006,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  60001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  60002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  90001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "AllUnit",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "AllUnit",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90003,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "AllUnit",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "EnemySideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BuiltIn",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90008,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "EnemySideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90011,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "Critical",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90012,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "EnemySideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  90014,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "EnemySideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  99001,
+        "EffectCode":  "StageFieldManaGainDown",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100001,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100002,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100003,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100004,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100005,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Attack",
+        "SituationCode":  "GiveRecovery",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100006,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100007,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "SucceedAttack",
+        "SituationCode":  "GiveDamage",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100008,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100008,
+        "EffectCode":  "HpLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100009,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100009,
+        "EffectCode":  "RecoverHp",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100010,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100011,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100011,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100012,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100013,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100014,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100015,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100015,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100016,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100016,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100017,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100017,
+        "EffectCode":  "AbnormalApply",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100018,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100019,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100020,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100020,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100021,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100021,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100022,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100022,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100023,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100023,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100024,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "OpponentAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100025,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100025,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "BelowHp",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100026,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "SpendBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100026,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100027,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100027,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100028,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100028,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100029,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100029,
+        "EffectCode":  "PassiveBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Passive",
+        "ScopeCode":  "",
+        "SubAssetCount":  3
+    },
+    {
+        "AbilityEffectAssetId":  100030,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100031,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100032,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100033,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100034,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100035,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100036,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100037,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100038,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100039,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100040,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100041,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100042,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100043,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100044,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100045,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100046,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100047,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100048,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100049,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "Duration",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100050,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100051,
+        "EffectCode":  "StackLinkedPassiveBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "StartBattle",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100052,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100053,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "ReceiveBuff",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100054,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100055,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "FriendAll",
+        "SituationCode":  "ActivateForceChain",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100056,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100057,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100058,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100059,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100060,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100061,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100062,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100063,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100064,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100065,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100066,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100067,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100068,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100069,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100070,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100071,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100072,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100073,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100074,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100075,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100076,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100077,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100078,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100079,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "BelowErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100081,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100082,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100083,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100084,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100085,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100086,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100087,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100088,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100089,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100090,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100091,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100092,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100093,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100094,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100095,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100096,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100097,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100098,
+        "EffectCode":  "SkillCharge",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100099,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100100,
+        "EffectCode":  "ParameterBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100101,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100102,
+        "EffectCode":  "ErosionLinkedBuff",
+        "TargetCode":  "Self",
+        "SituationCode":  "GameStart",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100103,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    },
+    {
+        "AbilityEffectAssetId":  100104,
+        "EffectCode":  "ChargeMana",
+        "TargetCode":  "Self",
+        "SituationCode":  "AboveErosion",
+        "ScopeCode":  "PlayerSideOnly",
+        "SubAssetCount":  4
+    }
+]

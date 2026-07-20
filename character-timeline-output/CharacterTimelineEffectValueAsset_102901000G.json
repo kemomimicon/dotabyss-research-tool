@@ -1,0 +1,182 @@
+﻿[
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "120"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "136.2"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "152.4"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "168.6"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "184.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "187.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "190.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "193.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "196.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "120"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "136.2"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "152.4"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "168.6"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "184.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "187.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "190.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "193.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "196.8"
+    },
+    {
+        "CharacterId":  "102901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    }
+]

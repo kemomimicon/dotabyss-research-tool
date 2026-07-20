@@ -1,0 +1,5322 @@
+﻿[
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  1,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  2,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  3,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  4,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  5,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  6,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  7,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  8,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  9,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "20"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "Attack001",
+        "VariantIndex":  10,
+        "Key":  "OLD.ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "15"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220"
+    },
+    {
+        "Action":  "Attack002",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "5"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "300"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "3"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "700"
+    },
+    {
+        "Action":  "Inferno",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "40"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  1,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  2,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  3,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  4,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  5,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  6,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  7,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  8,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  9,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  10,
+        "Key":  "TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180"
+    },
+    {
+        "Action":  "FireRain",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  1,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  2,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  3,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  4,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  5,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  6,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  7,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  8,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  9,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.THROW_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "FlameCure",
+        "VariantIndex":  10,
+        "Key":  "PRJCTL.LAND.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HIT_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.HP_RATIO_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "5"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_LIMIT",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "6"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "2000"
+    },
+    {
+        "Action":  "AssaultSkill",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "AssaultSkillFailure",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  1,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  2,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  3,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  4,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  5,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  6,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  7,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  8,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  9,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "KNOCKBACK.STRENGTH",
+        "TypeName":  "System.Int32",
+        "Value":  "4"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "DAMAGEDOWN.FIXED_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "DAMAGEDOWN.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "0.02"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.APPLY_PROBABILITY",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "1000"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "ABNORMAL.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "60"
+    },
+    {
+        "Action":  "ModeChange",
+        "VariantIndex":  10,
+        "Key":  "HELLFIRE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    }
+]

@@ -1,0 +1,542 @@
+﻿[
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "17.8"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "20.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "23.4"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.2"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.9"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "27.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "28.3"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "29"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "15"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "17.8"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "17.8"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "20.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "20.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "23.4"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "23.4"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.2"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.2"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.9"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "26.9"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "27.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "27.6"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "28.3"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "28.3"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "29"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "29"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "103901000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.RECOVER.MAX_HEAL",
+        "TypeName":  "System.Int32",
+        "Value":  "0"
+    }
+]
