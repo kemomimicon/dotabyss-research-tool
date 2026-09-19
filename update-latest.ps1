@@ -3,6 +3,8 @@ param(
     [int]$Port = 9222,
     [switch]$SkipBrowserLaunch,
     [switch]$SkipImages,
+    [switch]$SkipCharacterStands,
+    [string]$CharacterStandDirectory = (Join-Path $PSScriptRoot '.local-assets\character-stands-g'),
     [switch]$CloseBrowserWhenDone
 )
 
@@ -17,6 +19,7 @@ $smallOutput = Join-Path $generatedDirectory 'small-skill-output'
 $timelineOutput = Join-Path $generatedDirectory 'character-timeline-output'
 $imageBundleDirectory = Join-Path $rawDirectory 'image-bundles'
 $imageOutput = Join-Path $generatedDirectory 'images'
+$standBundleDirectory = Join-Path $rawDirectory 'character-stand-bundles'
 New-Item -ItemType Directory -Force $rawDirectory,$smallOutput,$timelineOutput | Out-Null
 
 function Test-DebugPort {
@@ -118,6 +121,7 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
     & (Join-Path $root 'parse-small-skill-master.ps1') -MasterFile $masterFile -OutputDirectory $smallOutput
 
     $catalogText=[Text.Encoding]::ASCII.GetString([IO.File]::ReadAllBytes($catalogFile))
+    $bundleNames=@([regex]::Matches($catalogText,'[A-Za-z0-9_./-]{1,500}\.bundle')|ForEach-Object{$_.Value}|Sort-Object -Unique)
     $timelineName=[regex]::Match($catalogText,'general-ingame-timelineextract_assets_assets_project_lazyassets_general_ingame_timelineextract_allcharactertimelineeffectvaluecatalog\.asset_[a-f0-9]+\.bundle','IgnoreCase').Value
     if(-not $timelineName){throw 'Timeline catalog bundle was not found in catalog.bin.'}
     $timelineBundle=Join-Path $rawDirectory $timelineName
@@ -144,7 +148,6 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         $missingIds=@($desiredIds|Where-Object{$_ -notin $knownIds})
         if($missingIds.Count){
             New-Item -ItemType Directory -Force $imageBundleDirectory,$imageOutput|Out-Null
-            $bundleNames=@([regex]::Matches($catalogText,'[A-Za-z0-9_./-]{1,300}\.bundle')|ForEach-Object{$_.Value}|Sort-Object -Unique)
             $imageNames=@($bundleNames|Where-Object{
                 $name=$_.ToLowerInvariant()
                 $matchesId=@($missingIds|Where-Object{$name.Contains($_.ToLowerInvariant())}).Count -gt 0
@@ -160,6 +163,29 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         & (Join-Path $root 'build-character-gallery.ps1') -SourceDirectory (Join-Path $root 'character-gallery\images') -CharacterCatalogAsset $catalogList -OutputDirectory (Join-Path $root 'character-gallery') -NormalAttackCsv (Join-Path $root 'normal-attack-output\normal-attacks-summary.csv')
     }
 
+    $standCount=0
+    if(-not $SkipCharacterStands){
+        $standPattern='^normal-only-charastand_.*_g_charastand([0-9]{9}g)\.prefab_[a-f0-9]+\.bundle$'
+        $standResources=@($bundleNames|Where-Object{$_ -match $standPattern}|ForEach-Object{
+            $null=$_ -match $standPattern
+            [pscustomobject]@{CharacterId=$Matches[1].ToUpperInvariant();Name=$_}
+        }|Sort-Object CharacterId -Unique)
+        if(-not $standResources.Count){throw 'No all-ages character stand bundles were found in catalog.bin.'}
+        New-Item -ItemType Directory -Force $standBundleDirectory,$CharacterStandDirectory|Out-Null
+        $versionFile=Join-Path $CharacterStandDirectory '.resource-version'
+        $savedVersion=if(Test-Path $versionFile){[string](Get-Content $versionFile -Raw).Trim()}else{''}
+        $existingStandIds=@(Get-ChildItem $CharacterStandDirectory -File -Filter '*.png'|ForEach-Object{$_.BaseName})
+        $standsAreCurrent=$savedVersion -eq $resourceVersion -and @($standResources|Where-Object{$_.CharacterId -notin $existingStandIds}).Count -eq 0
+        if(-not $standsAreCurrent){
+            foreach($resource in $standResources){
+                Fetch-Resource ($baseUrl+$resource.Name) (Join-Path $standBundleDirectory ($resource.CharacterId+'.bundle'))
+            }
+            Invoke-Python @((Join-Path $root 'extract-character-stands.py'),$standBundleDirectory,$CharacterStandDirectory)
+            Set-Content $versionFile $resourceVersion -Encoding ascii
+        }
+        $standCount=@(Get-ChildItem $CharacterStandDirectory -File -Filter '*.png').Count
+    }
+
     $summary=[ordered]@{
         ResourceVersion=$resourceVersion
         Characters=[int]$coverage.Characters
@@ -171,6 +197,8 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         AbilityEffectAssets=[int]$abilityReport.AbilityEffectAssets
         CharacterTimelineAssets=[int]$timelineReport.CharacterAssets
         TimelineEffectValues=[int]$timelineReport.RawEffectValues
+        AllAgesCharacterStands=$standCount
+        CharacterStandDirectory=if($SkipCharacterStands){$null}else{[IO.Path]::GetFullPath($CharacterStandDirectory)}
         RunDirectory=$runDirectory
     }
     $summary|ConvertTo-Json|Set-Content (Join-Path $runDirectory 'result.json') -Encoding utf8
