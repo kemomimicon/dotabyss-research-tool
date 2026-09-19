@@ -45,6 +45,11 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("bundle", type=Path)
     parser.add_argument("output", type=Path)
+    parser.add_argument(
+        "--preserve-unchanged-from",
+        type=Path,
+        help="Reuse existing per-character CSV/JSON when its rows are semantically unchanged",
+    )
     args = parser.parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
 
@@ -87,10 +92,24 @@ def main() -> int:
         if not asset_rows:
             empty_assets.append(character_id)
         base = f"CharacterTimelineEffectValueAsset_{character_id}"
-        write_csv(args.output / f"{base}.csv", asset_rows, LONG_FIELDS)
-        (args.output / f"{base}.json").write_text(
-            json.dumps(asset_rows, ensure_ascii=False, indent=2), encoding="utf-8"
-        )
+        preserved = False
+        if args.preserve_unchanged_from:
+            old_json = args.preserve_unchanged_from / f"{base}.json"
+            old_csv = args.preserve_unchanged_from / f"{base}.csv"
+            if old_json.exists() and old_csv.exists():
+                try:
+                    old_rows = json.loads(old_json.read_text(encoding="utf-8-sig"))
+                    preserved = old_rows == asset_rows
+                except (OSError, UnicodeError, json.JSONDecodeError):
+                    preserved = False
+                if preserved:
+                    (args.output / f"{base}.json").write_bytes(old_json.read_bytes())
+                    (args.output / f"{base}.csv").write_bytes(old_csv.read_bytes())
+        if not preserved:
+            write_csv(args.output / f"{base}.csv", asset_rows, LONG_FIELDS)
+            (args.output / f"{base}.json").write_text(
+                json.dumps(asset_rows, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
         all_rows.extend(asset_rows)
 
     # Python's stable sort keeps the effect/key order found in the asset while

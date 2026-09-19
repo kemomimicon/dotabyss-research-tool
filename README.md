@@ -13,6 +13,38 @@
 
 详细覆盖率与技术边界见 [`small-skill-output/STATUS.md`](small-skill-output/STATUS.md)。
 
+## 本地一键更新
+
+Windows 用户可以直接双击：
+
+```text
+update-latest.cmd
+```
+
+脚本会执行以下工作：
+
+1. 启动使用独立配置目录的 Edge，不读取日常浏览器 Cookie。
+2. 等待使用者自行登录并进入游戏主界面。
+3. 自动识别当前 WebGL 资源版本，导出本机 IndexedDB 中的主数据缓存。
+4. 通过已登录的游戏页面取得公共能力资源、地址目录和角色时间轴。
+5. 更新小技能 1–10 级、对象/条件/范围、FC 主数据、角色时间轴及缺失角色图片。
+6. 在覆盖公开输出前检查运行时对象关联率及 Unity 引用完整性。
+
+首次运行需要联网安装 Python 依赖，依赖只保存在仓库内被忽略的
+`.local-python/`。原始缓存和临时资源保存在 `.local-update/`，不会进入 Git。
+脚本不会自动提交或推送 GitHub，也不会绕过登录、加密或服务器权限。
+
+命令行用法：
+
+```powershell
+.\update-latest.ps1
+.\update-latest.ps1 -SkipImages
+.\update-latest.ps1 -CloseBrowserWhenDone
+```
+
+如果脚本提示没有检测到资源地址，在游戏主界面刷新一次，等待加载完成后按
+Enter 重试。代理软件应保持能让 Edge 正常进入游戏的模式。
+
 ## 小技能数据
 
 主查表文件是：

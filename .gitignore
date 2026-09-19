@@ -1,4 +1,8 @@
 .edge-research-profile/
+.local-python/
+.local-update/
+__pycache__/
+*.pyc
 captures/
 analysis/
 analysis-output/
