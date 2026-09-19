@@ -39,12 +39,16 @@ def game_object_layout(environment) -> dict[str, dict[str, tuple[float, float]]]
     return layout
 
 
-def composite_default_face(environment) -> tuple[Image.Image, str, str]:
+def composite_default_face(environment) -> tuple[Image.Image, str, str, str]:
     sprites = {}
+    textures = {}
     for obj in environment.objects:
         if obj.type.name == "Sprite":
             sprite = obj.read()
             sprites[sprite.m_Name] = sprite.image.convert("RGBA")
+        elif obj.type.name == "Texture2D":
+            texture = obj.read()
+            textures[texture.m_Name] = texture.image.convert("RGBA")
     if "Body" not in sprites:
         raise ValueError("Body sprite was not found")
 
@@ -53,7 +57,7 @@ def composite_default_face(environment) -> tuple[Image.Image, str, str]:
     if not face_name:
         face_name = next((name for name in sorted(sprites) if name != "Body"), "")
     if not face_name:
-        return body, "", "body-only"
+        return body, "", "body-only", ""
 
     layout = game_object_layout(environment)
     if "Body" not in layout or "FaceContent" not in layout:
@@ -65,17 +69,31 @@ def composite_default_face(environment) -> tuple[Image.Image, str, str]:
         raise ValueError("Invalid prefab layout dimensions")
 
     scale = min(body.width / body_width, body.height / body_height)
-    face = sprites[face_name]
-    face_scale = min(face_width * scale / face.width, face_height * scale / face.height)
-    rendered = face.resize(
-        (max(1, round(face.width * face_scale)), max(1, round(face.height * face_scale))),
-        Image.Resampling.LANCZOS,
-    )
+    # Unity's Sprite image is cropped to its sprite rect. Most face textures have
+    # asymmetric transparent padding, so centering that crop shifts the face.
+    # The uncropped Texture2D matches FaceContent's native dimensions and keeps
+    # the original padding. A few assets omit the standalone texture and fall
+    # back to their untrimmed Sprite.
+    if face_name in textures:
+        face = textures[face_name]
+        rendered = face.resize(
+            (max(1, round(face_width * scale)), max(1, round(face_height * scale))),
+            Image.Resampling.LANCZOS,
+        )
+        face_source = "Texture2D"
+    else:
+        face = sprites[face_name]
+        face_scale = min(face_width * scale / face.width, face_height * scale / face.height)
+        rendered = face.resize(
+            (max(1, round(face.width * face_scale)), max(1, round(face.height * face_scale))),
+            Image.Resampling.LANCZOS,
+        )
+        face_source = "Sprite"
     center_x = body.width / 2 + face_x * scale
     center_y = body.height / 2 - face_y * scale
     destination = (round(center_x - rendered.width / 2), round(center_y - rendered.height / 2))
     body.alpha_composite(rendered, destination)
-    return body, face_name, "composited"
+    return body, face_name, "composited", face_source
 
 
 def main() -> int:
@@ -94,21 +112,22 @@ def main() -> int:
         output_name = f"{character_id}.png"
         row = {"CharacterId": character_id, "Bundle": bundle.name, "Output": output_name}
         try:
-            image, face_name, status = composite_default_face(UnityPy.load(str(bundle)))
+            image, face_name, status, face_source = composite_default_face(UnityPy.load(str(bundle)))
             image.save(args.output / output_name)
             row.update(
                 Status=status,
                 DefaultFace=face_name,
+                FaceSource=face_source,
                 Width=image.width,
                 Height=image.height,
                 Error="",
             )
         except Exception as error:  # keep a complete per-bundle report
             failures += 1
-            row.update(Status="error", DefaultFace="", Width="", Height="", Error=str(error))
+            row.update(Status="error", DefaultFace="", FaceSource="", Width="", Height="", Error=str(error))
         rows.append(row)
 
-    fields = ("CharacterId", "Bundle", "Output", "Status", "DefaultFace", "Width", "Height", "Error")
+    fields = ("CharacterId", "Bundle", "Output", "Status", "DefaultFace", "FaceSource", "Width", "Height", "Error")
     with (args.output / "manifest.csv").open("w", newline="", encoding="utf-8-sig") as stream:
         writer = csv.DictWriter(stream, fieldnames=fields)
         writer.writeheader()

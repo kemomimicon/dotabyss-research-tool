@@ -48,6 +48,9 @@ update-latest.cmd
 将默认表情与无脸身体图合成为透明 PNG。立绘默认保存在被 Git 忽略的
 `.local-assets/character-stands-g/`；如果 C 盘空间有限，可用
 `-CharacterStandDirectory` 改到其他磁盘。完整美术资源不会自动加入 Git。
+主数据中 `m_character_skins.type=2` 的酒馆工作皮肤会另外列入
+`tavern-character-stands.csv`，并复制到 `tavern/` 子目录。面部合成优先使用
+未经 Unity Sprite 裁边的原始 Texture2D，以保留非对称透明边距。
 
 如果脚本提示没有检测到资源地址，在游戏主界面刷新一次，等待加载完成后按
 Enter 重试。代理软件应保持能让 Edge 正常进入游戏的模式。

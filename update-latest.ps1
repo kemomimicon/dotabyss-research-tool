@@ -164,6 +164,7 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
     }
 
     $standCount=0
+    $tavernStandCount=0
     if(-not $SkipCharacterStands){
         $standPattern='^normal-only-charastand_.*_g_charastand([0-9]{9}g)\.prefab_[a-f0-9]+\.bundle$'
         $standResources=@($bundleNames|Where-Object{$_ -match $standPattern}|ForEach-Object{
@@ -184,6 +185,22 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
             Set-Content $versionFile $resourceVersion -Encoding ascii
         }
         $standCount=@(Get-ChildItem $CharacterStandDirectory -File -Filter '*.png').Count
+        $skinFile=Join-Path $smallOutput 'm_character_skins.csv'
+        if(Test-Path $skinFile){
+            $tavernDirectory=Join-Path $CharacterStandDirectory 'tavern'
+            New-Item -ItemType Directory -Force $tavernDirectory|Out-Null
+            $tavernRows=@(Import-Csv $skinFile|Where-Object{[int]$_.type -eq 2}|ForEach-Object{
+                $assetId=[string]$_.asset_id
+                $source=Join-Path $CharacterStandDirectory ($assetId+'.png')
+                if(Test-Path $source){Copy-Item $source (Join-Path $tavernDirectory ($assetId+'.png')) -Force}
+                [pscustomobject]@{
+                    CharacterSkinId=$_.id;CharacterId=$_.m_character_id;SkinType=$_.type;SkinTypeName='TavernWork'
+                    Name=$_.name;AssetId=$assetId;IsDefault=$_.is_default;ImageAvailable=(Test-Path $source)
+                }
+            })
+            $tavernRows|Export-Csv (Join-Path $CharacterStandDirectory 'tavern-character-stands.csv') -NoTypeInformation -Encoding utf8
+            $tavernStandCount=@($tavernRows|Where-Object{$_.ImageAvailable}).Count
+        }
     }
 
     $summary=[ordered]@{
@@ -198,6 +215,7 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         CharacterTimelineAssets=[int]$timelineReport.CharacterAssets
         TimelineEffectValues=[int]$timelineReport.RawEffectValues
         AllAgesCharacterStands=$standCount
+        TavernCharacterStands=$tavernStandCount
         CharacterStandDirectory=if($SkipCharacterStands){$null}else{[IO.Path]::GetFullPath($CharacterStandDirectory)}
         RunDirectory=$runDirectory
     }

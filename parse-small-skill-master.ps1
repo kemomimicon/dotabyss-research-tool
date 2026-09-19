@@ -97,6 +97,7 @@ function Read-MpMapCount([IO.BinaryReader]$Reader){
 $schemas=[ordered]@{
     m_character_action_skills=@('id','m_character_id','trigger_type','name','description')
     m_characters=@('id','name','rarity','original_m_character_id','element_type','party_position','weapon_type','armor_type','union_type','attack','defence','hp','move_speed','chain_count','chain_waits','chain_interval','critical_probability','critical_damage_ratio','attack_continuous_probability','avoid_probability','knockback_power','knockback_resist','extra_drop_probability','skill_charge','skill_tag','mana_type','open_at')
+    m_character_skins=@('id','m_character_id','type','rarity','name','description','serif','is_default','bonus_bond_point','is_collabo','released_at','asset_id','bg_asset_id','display_order')
     m_character_abilities=@('id','m_character_id','asset_id','name','ability_no','order')
     m_abilities=@('id','ability_no','m_ability_effects_id','ability_awake_level','display_order')
     m_ability_details=@('id','ability_no','ability_awake_level','level','description','awake_description')
