@@ -4,10 +4,10 @@ This directory contains normalized timeline-effect data extracted from DotAbyss 
 
 ## Coverage
 
-- 104 character assets were present in the captured catalog.
-- 103 contain timeline values; `108701000G` is an empty asset in this build.
-- 27,699 raw effect values were extracted.
-- 2,050 character / skill type / skill level rows are present in the summary.
+- 107 character assets were present in WebGL resource version 9533.
+- 106 contain timeline values; `108701000G` is an empty asset in this build.
+- 28,879 raw effect values were extracted.
+- 2,110 character / skill type / skill level rows are present in the summary.
 - Two skill sections are normally available: `actionSkillValues` and `chainSkillValues`.
 - Skill levels are the catalog keys `1` through `10`, not hit numbers.
 - `EffectIndex` represents the order of repeated values for one effect key. For damage fields this often corresponds to separate hit/effect entries, but it should remain raw until verified against animation timing.
@@ -17,7 +17,8 @@ This directory contains normalized timeline-effect data extracted from DotAbyss 
 - `all-characters-summary.csv`: compact research table, one row per character, skill type and skill level.
 - `all-characters-long.csv`: normalized raw table, one row per effect value.
 - `CharacterTimelineEffectValueAsset_<ID>.csv/json`: per-character data.
-- `../parse-character-timeline.ps1`: reproducible parser for AssetRipper YAML exports.
+- `../parse-character-timeline.ps1`: parser for AssetRipper YAML exports.
+- `../extract-character-timelines-unitypy.py`: direct bundle parser that avoids the YAML export step.
 
 ## Important columns
 

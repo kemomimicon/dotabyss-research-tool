@@ -1,182 +1,812 @@
-﻿[
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "60"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "66"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "69"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "72"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "75"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "78"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "81"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "83.99999"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "87"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "90"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "60"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "66"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "69"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "72"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "75"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "78"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "81"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "83.99999"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "87"
-    },
-    {
-        "CharacterId":  "107601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "RECOVER.HEAL_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "90"
-    }
+[
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "75"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "89.2"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "103.4"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "117.6"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "131.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "135.3"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "138.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "142.3"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "145.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "75"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "75"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "89.2"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "89"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "103.4"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "103"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "117.6"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "117"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "131.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "131"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "135.3"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "134"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "138.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "137"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "142.3"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "140"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "145.8"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "143"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "RECOVER.HEAL_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.FIXED_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "CRITICALUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "SKILL_CHARGE.CHARGE_VALUE",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "107601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "ZEAL.ATTACKUP1.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10"
+  }
 ]

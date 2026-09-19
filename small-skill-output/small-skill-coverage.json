@@ -1,10 +1,10 @@
 ﻿{
-    "Characters":  61,
-    "CharacterAbilities":  151,
-    "CharactersWithExactlyThreeAbilities":  29,
-    "AbilityDetails":  4055,
-    "LevelRows1To10":  6020,
-    "JoinedRuntimeTargets":  6020,
-    "ForceChainSkills":  61,
-    "ForceChainTargetsJoined":  59
+    "Characters":  72,
+    "CharacterAbilities":  184,
+    "CharactersWithExactlyThreeAbilities":  40,
+    "AbilityDetails":  5405,
+    "LevelRows1To10":  8150,
+    "JoinedRuntimeTargets":  8150,
+    "ForceChainSkills":  72,
+    "ForceChainTargetsJoined":  63
 }

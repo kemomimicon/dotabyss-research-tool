@@ -4,10 +4,10 @@
 
 ## 当前成果
 
-- 61 名角色及基础属性。
+- 72 名角色及基础属性。
 - 普攻循环、可观察命中/投射物事件和时间轴。
-- 151 个角色小技能；完整的 1–10 级描述、觉醒阶段、效果段、目标、触发场景、作用范围和解锁条件。
-- FC 主数据及 59/61 个技能级初始选敌配置。
+- 184 个角色小技能；完整的 1–10 级描述、觉醒阶段、效果段、目标、触发场景、作用范围和解锁条件。
+- FC 主数据及 63/72 个技能级初始选敌配置。
 - 敌方时间轴与效果值解析脚本。
 - 角色图片画廊。
 
@@ -35,9 +35,9 @@ small-skill-output/character-small-skills-long.csv
 
 - 稀有度 1：16 名角色，每名 2 个小技能
 - 稀有度 2：16 名角色，每名 2 个小技能
-- 稀有度 3：29 名角色，每名 3 个小技能
+- 稀有度 3：40 名角色，每名 3 个小技能
 
-因此 151 个技能是完整数量，并非 61 × 3。
+因此 184 个技能是完整数量，并非 72 × 3。
 
 重新解析：
 
@@ -50,6 +50,16 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass `
   -File .\parse-small-skill-master.ps1 `
   -MasterFile C:\path\to\download-cache.dat
 ```
+
+也可直接解析 Unity bundle，避免同名 `AbilitySubAsset` 在普通文件导出时互相覆盖：
+
+```powershell
+python -m pip install -r .\requirements-unitypy.txt
+python .\extract-ability-effects-unitypy.py C:\path\to\general-common.bundle .\small-skill-output
+python .\extract-character-timelines-unitypy.py C:\path\to\timeline-catalog.bundle .\character-timeline-output
+```
+
+本次版本变化见 [`UPDATE_2026-09-19.md`](UPDATE_2026-09-19.md)。
 
 ## FC 数据
 

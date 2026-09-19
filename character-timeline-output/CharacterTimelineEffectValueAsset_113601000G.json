@@ -1,1802 +1,3242 @@
-﻿[
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "actionSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  1,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  2,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  3,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  4,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  5,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  6,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  7,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  8,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  9,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "KNOCKBACK.STRENGTH",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.HIT_COUNT",
-        "TypeName":  "System.Int32",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  2,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  3,
-        "Key":  "DAMAGE.DAMAGE_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    },
-    {
-        "CharacterId":  "113601000G",
-        "SkillType":  "chainSkillValues",
-        "SkillLevel":  10,
-        "EffectIndex":  1,
-        "Key":  "DAMAGE.DAMAGE_FIRST_PERCENT",
-        "TypeName":  "Project.ValuePercent",
-        "Value":  "1"
-    }
+[
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "119"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "138"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "157"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "176"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "180.9"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "185.6"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "190.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "195"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "200"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "50"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "119"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "59.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "178"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "178"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "138"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "69"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "206"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "206"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "157"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "78.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "234"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "234"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "176"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "88"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "262"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "262"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "180.9"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "90.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "269"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "269"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "185.6"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "92.7"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "276"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "276"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "190.3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "95.1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "283"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "283"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "195"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "97.5"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "290"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "290"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "0"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 2,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 3,
+    "Key": "DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "200"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "100"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DAMAGE_MULTIPLIER",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.INTERVAL",
+    "TypeName": "System.Single",
+    "Value": "3"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "DOTDAMAGE.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "300"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ATTACKDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "300"
+  },
+  {
+    "CharacterId": "113601000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.DEFENCEDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  }
 ]

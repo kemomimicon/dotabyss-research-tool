@@ -894,5 +894,103 @@
         "level":  1,
         "condition_type":  2,
         "condition_value":  5
+    },
+    {
+        "id":  129,
+        "m_character_ability_id":  130004903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  130,
+        "m_character_ability_id":  130005003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  131,
+        "m_character_ability_id":  130004903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  132,
+        "m_character_ability_id":  130005003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  133,
+        "m_character_ability_id":  130005103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  134,
+        "m_character_ability_id":  130005203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  135,
+        "m_character_ability_id":  130005103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  136,
+        "m_character_ability_id":  130005203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  137,
+        "m_character_ability_id":  130005303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  138,
+        "m_character_ability_id":  130005303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  139,
+        "m_character_ability_id":  130005403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  140,
+        "m_character_ability_id":  130005403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  141,
+        "m_character_ability_id":  130005503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  142,
+        "m_character_ability_id":  130005503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
     }
 ]

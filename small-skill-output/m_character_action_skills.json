@@ -179,7 +179,7 @@
         "m_character_id":  1100013,
         "trigger_type":  30,
         "name":  "スパーキング・スラッシュ",
-        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身のスキルを【{[SKILLCHARGEQUANTITYUP.RATE_PERCENT]}】チャージ"
+        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ"
     },
     {
         "id":  1100014000,
@@ -305,7 +305,7 @@
         "m_character_id":  1200006,
         "trigger_type":  30,
         "name":  "水の型・逆袈裟",
-        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に最大HP【{[ZEAL.RECOVER.HEAL_PERCENT]}】分の回復"
+        "description":  "さらに防御力DOWN【{[DEFENCEDOWN.RATE_PERCENT]} / 15秒】を付与 / ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化 / 紋章：情熱が5以上のとき、自身に最大HP【{[ZEAL.RECOVER.HEAL_PERCENT]}】分の回復"
     },
     {
         "id":  1200008000,
@@ -319,7 +319,7 @@
         "m_character_id":  1200008,
         "trigger_type":  30,
         "name":  "雷閃",
-        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT:1]}】に変化 / 紋章：衝撃を5消費し、麻痺【10秒 / 成功率:{[IMPACTSUCCEED.ABNORMAL.APPLY_PROBABILITY:1]}】を付与"
+        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT:1]}】に変化 / 紋章：衝撃を5消費し、攻撃ごとに麻痺【10秒 / 成功率:{[IMPACTSUCCEED.ABNORMAL.APPLY_PROBABILITY:1]}】を付与"
     },
     {
         "id":  1200011000,
@@ -368,7 +368,7 @@
         "m_character_id":  1200014,
         "trigger_type":  20,
         "name":  "マジカルスモーキング",
-        "description":  "味方全体に攻撃力UP【{[ATTACKUP.RATE_PERCENT]} / 15秒】を付与 / 自身に紋章：情熱を【1】付与"
+        "description":  "味方全体に攻撃力UP【{[ATTACKUP1.RATE_PERCENT]} / 15秒】を付与 / 自身に紋章：情熱を【1】付与"
     },
     {
         "id":  1200014001,
@@ -460,6 +460,20 @@
         "trigger_type":  30,
         "name":  "バーニングロンド",
         "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に上昇 / 紋章：情熱が5以上のとき、自身のスキルを【{[ZEAL.SKILL_CHARGE.CHARGE_VALUE]}】チャージ"
+    },
+    {
+        "id":  1300002000,
+        "m_character_id":  1300002,
+        "trigger_type":  20,
+        "name":  "一目千両桜",
+        "description":  "自身の前方範囲内にいる敵全体に【9HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：情熱を【1】付与"
+    },
+    {
+        "id":  1300002001,
+        "m_character_id":  1300002,
+        "trigger_type":  30,
+        "name":  "一目千両桜",
+        "description":  "さらに自身に自身の最大HP【{[BARRIER.RATE]}】分のバリア【15秒】を付与 / 紋章：情熱が5以上のとき、自身にスキルチャージ効率UP【20% / {[ZEALOVER.SKILLCHARGEQUANTITYUP.DURATION]秒}】を付与"
     },
     {
         "id":  1300003000,
@@ -588,6 +602,20 @@
         "description":  "さらに紋章：衝撃を5消費し、最も攻撃力の高い光・闇・無属性の味方1体に衝撃消費無効1回【永続】を付与"
     },
     {
+        "id":  1300012000,
+        "m_character_id":  1300012,
+        "trigger_type":  20,
+        "name":  "サンダーボルト・キャリバー",
+        "description":  "自身の前方範囲内にいる敵全体に【2HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 自身に紋章：衝撃を【1】付与"
+    },
+    {
+        "id":  1300012001,
+        "m_character_id":  1300012,
+        "trigger_type":  30,
+        "name":  "サンダーボルト・キャリバー",
+        "description":  "さらに光属性の味方全体に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化 "
+    },
+    {
         "id":  1300014000,
         "m_character_id":  1300014,
         "trigger_type":  20,
@@ -628,6 +656,20 @@
         "trigger_type":  30,
         "name":  "水神の怒り",
         "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化"
+    },
+    {
+        "id":  1300018000,
+        "m_character_id":  1300018,
+        "trigger_type":  20,
+        "name":  "リバイブヒール",
+        "description":  "味方全体に通常回復の【{[PRJCTL.THROW.RECOVER.HEAL_PERCENT]}】回復"
+    },
+    {
+        "id":  1300018001,
+        "m_character_id":  1300018,
+        "trigger_type":  30,
+        "name":  "リバイブヒール",
+        "description":  "自身に防御力UP【{[DEFENCEUP.RATE_PERCENT]} / 20秒】を付与 / 戦闘不能の味方がいるとき、紋章：衝撃を10消費し、ランダムな味方1体を蘇生"
     },
     {
         "id":  1300019000,
@@ -840,6 +882,20 @@
         "description":  "自身のスキルを【{[SKILL_CHARGE.CHARGE_VALUE]}】チャージ  / 紋章：衝撃を5消費し、ダメージ倍率が【{[IMPACTSUCCEED.DAMAGE.DAMAGE_PERCENT]}】に変化"
     },
     {
+        "id":  1300040000,
+        "m_character_id":  1300040,
+        "trigger_type":  20,
+        "name":  "フェニックスリヴァイヴ",
+        "description":  "味方全体に通常回復の【{[RECOVER.HEAL_PERCENT]}】回復 / 会心率UP【10% / 10秒】を付与"
+    },
+    {
+        "id":  1300040001,
+        "m_character_id":  1300040,
+        "trigger_type":  30,
+        "name":  "フェニックスリヴァイヴ",
+        "description":  "自身のスキルを【{[SKILL_CHARGE.CHARGE_VALUE]}】チャージ / 紋章：情熱が5以上のとき、 自身以外の味方全体に攻撃力UP【15% / 10秒】を付与"
+    },
+    {
         "id":  1300041000,
         "m_character_id":  1300041,
         "trigger_type":  20,
@@ -852,5 +908,103 @@
         "trigger_type":  30,
         "name":  "えぇい！持ってけドロボー！",
         "description":  "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与"
+    },
+    {
+        "id":  1300049000,
+        "m_character_id":  1300049,
+        "trigger_type":  20,
+        "name":  "サマースピリット・ホエール",
+        "description":  "自身の前方範囲内にいる敵全体に【1HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / ノックバック【Lv3】"
+    },
+    {
+        "id":  1300049001,
+        "m_character_id":  1300049,
+        "trigger_type":  30,
+        "name":  "サマースピリット・ホエール",
+        "description":  "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化  / 自身に紋章：情熱を【2】付与 / 紋章：情熱が5以上のとき、自身にスキル与ダメージUP【20% / {[ZEALOVER.SKILLDAMAGEUP.DURATION]秒}】を付与"
+    },
+    {
+        "id":  1300050000,
+        "m_character_id":  1300050,
+        "trigger_type":  20,
+        "name":  "ハイドロ・プレシジョン",
+        "description":  "HPが最も高い敵1体に【1HIT / 合計{[PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 喪失耐性DOWN【15% / {[PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION]秒}】を付与 / 自身に紋章：衝撃を【1】付与"
+    },
+    {
+        "id":  1300050001,
+        "m_character_id":  1300050,
+        "trigger_type":  30,
+        "name":  "ハイドロ・プレシジョン",
+        "description":  "対象に喪失【{[PRJCTL.LAND.ABNORMAL.DURATION]秒} / 成功率:50%】を付与 / 紋章：衝撃を5消費し、味方バック全体に喪失状態の敵に対して与ダメージUP【{[IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与"
+    },
+    {
+        "id":  1300051000,
+        "m_character_id":  1300051,
+        "trigger_type":  20,
+        "name":  "巻貝百華",
+        "description":  "HPが最も低い敵を中心とした範囲内にいる敵全体に対象に炎上【{[PRJCTL.THROW.ABNORMAL.DURATION]秒} / 成功率:50%】を付与 / 【5HIT / 合計{[PRJCTL.THROW.DAMAGE.DAMAGE_PERCENT]}】ダメージ"
+    },
+    {
+        "id":  1300051001,
+        "m_character_id":  1300051,
+        "trigger_type":  30,
+        "name":  "巻貝百華",
+        "description":  "炎上状態の敵に対してダメージ倍率が【{[PRJCTL.THROW.DAMAGE.ENHANCE_0.DAMAGE_PERCENT]}】上昇"
+    },
+    {
+        "id":  1300052000,
+        "m_character_id":  1300052,
+        "trigger_type":  20,
+        "name":  "魔眼の解放",
+        "description":  "HPが最も高い敵1体に【3HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ / 継続ダメージ【50% / 15秒】を付与 / 自身に紋章：衝撃を【1】付与"
+    },
+    {
+        "id":  1300052001,
+        "m_character_id":  1300052,
+        "trigger_type":  30,
+        "name":  "魔眼の解放",
+        "description":  "紋章：衝撃を5消費し、対象に攻撃力DOWN【{[IMPACT.ATTACKDOWN.RATE_PERCENT]} / 15秒】と防御力DOWN【{[IMPACT.DEFENCEDOWN.RATE_PERCENT]} / 15秒】を付与"
+    },
+    {
+        "id":  1300053000,
+        "m_character_id":  1300053,
+        "trigger_type":  20,
+        "name":  "ウルトラ無敵元気スープ",
+        "description":  "光・闇・無属性の味方全体に被ダメージDOWN【{[TAKENDAMAGEDOWN.FIXED_PERCENT]} / 30秒】と会心ダメージ倍率UP【{[CRITICALDAMAGERATEUP.FIXED_PERCENT]} / 30秒】を付与"
+    },
+    {
+        "id":  1300053001,
+        "m_character_id":  1300053,
+        "trigger_type":  30,
+        "name":  "ウルトラ無敵元気スープ",
+        "description":  "さらに自身に最大HP【{[RECOVER.HEAL_PERCENT]}】分の回復 / 紋章：衝撃を5消費し、味方フロント全体に会心率UP【{[IMPACT.CRITICALUP.FIXED_PERCENT]} / 15秒】を付与"
+    },
+    {
+        "id":  1300054000,
+        "m_character_id":  1300054,
+        "trigger_type":  20,
+        "name":  "銀嶺嵐",
+        "description":  "敵全体に凍結【10秒 / 成功率:{[ABNORMAL.APPLY_PROBABILITY]}】を付与 / 水属性の味方全体に凍結状態の敵に対して与ダメージUP【{[ABNORMALFREEZETARGETDAMAGEUP.RATE_PERCENT]} / 15秒】を付与"
+    },
+    {
+        "id":  1300054001,
+        "m_character_id":  1300054,
+        "trigger_type":  30,
+        "name":  "銀嶺嵐",
+        "description":  "自身に氷精蝶が付与されているとき、氷精蝶を解除し、凍結状態の敵に対して与ダメージUPの効果倍率が【{[ABNORMALFREEZETARGETDAMAGEUP.RATE_PERCENT]}】に変化 / さらに水属性の味方全体に紋章：情熱を【1】付与 "
+    },
+    {
+        "id":  1300055000,
+        "m_character_id":  1300055,
+        "trigger_type":  20,
+        "name":  "じゃくにくきょーしょく砲",
+        "description":  "なし"
+    },
+    {
+        "id":  1300055001,
+        "m_character_id":  1300055,
+        "trigger_type":  30,
+        "name":  "じゃくにくきょーしょく砲",
+        "description":  "満腹度が5以上のときのみ使用可能 / 満腹度を5消費し、前方範囲内にいる敵全体に【9HIT / 合計{[TRACK.IMPACTFAILURE.DAMAGE.DAMAGE_PERCENT]}】ダメージ / 紋章：衝撃を20消費し、ダメージ倍率が【{[TRACK.IMPACTSUCCESS.DAMAGE.DAMAGE_PERCENT]}】に変化"
     }
 ]
