@@ -4,13 +4,16 @@ param(
     [switch]$SkipBrowserLaunch,
     [switch]$SkipImages,
     [switch]$SkipCharacterStands,
-    [string]$CharacterStandDirectory = (Join-Path $PSScriptRoot '.local-assets\character-stands-g'),
+    [string]$CharacterStandDirectory = "",
+    [string]$TavernStandDirectory = "",
     [switch]$CloseBrowserWhenDone
 )
 
 $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 $root = $PSScriptRoot
+if (-not $CharacterStandDirectory) { $CharacterStandDirectory = Join-Path $root '.local-assets\character-stands-g' }
+if (-not $TavernStandDirectory) { $TavernStandDirectory = Join-Path $root '.local-assets\tavern-character-stands' }
 $stamp = Get-Date -Format 'yyyyMMdd-HHmmss'
 $runDirectory = Join-Path $root ".local-update\$stamp"
 $rawDirectory = Join-Path $runDirectory 'raw'
@@ -20,6 +23,7 @@ $timelineOutput = Join-Path $generatedDirectory 'character-timeline-output'
 $imageBundleDirectory = Join-Path $rawDirectory 'image-bundles'
 $imageOutput = Join-Path $generatedDirectory 'images'
 $standBundleDirectory = Join-Path $rawDirectory 'character-stand-bundles'
+$tavernStandBundleDirectory = Join-Path $rawDirectory 'tavern-character-stand-bundles'
 New-Item -ItemType Directory -Force $rawDirectory,$smallOutput,$timelineOutput | Out-Null
 
 function Test-DebugPort {
@@ -187,18 +191,38 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         $standCount=@(Get-ChildItem $CharacterStandDirectory -File -Filter '*.png').Count
         $skinFile=Join-Path $smallOutput 'm_character_skins.csv'
         if(Test-Path $skinFile){
-            $tavernDirectory=Join-Path $CharacterStandDirectory 'tavern'
-            New-Item -ItemType Directory -Force $tavernDirectory|Out-Null
-            $tavernRows=@(Import-Csv $skinFile|Where-Object{[int]$_.type -eq 2}|ForEach-Object{
+            $tavernSkinRows=@(Import-Csv $skinFile|Where-Object{[int]$_.type -eq 2})
+            $desiredTavernIds=@($tavernSkinRows|ForEach-Object{([string]$_.asset_id).ToUpperInvariant()}|Sort-Object -Unique)
+            $tavernPattern='^normal-only-charastand_.*_x_charastand([0-9]{9}x)\.prefab_[a-f0-9]+\.bundle$'
+            $tavernResources=@($bundleNames|Where-Object{$_ -match $tavernPattern}|ForEach-Object{
+                $null=$_ -match $tavernPattern
+                [pscustomobject]@{CharacterId=$Matches[1].ToUpperInvariant();Name=$_}
+            }|Where-Object{$_.CharacterId -in $desiredTavernIds}|Sort-Object CharacterId -Unique)
+            $missingTavernResources=@($desiredTavernIds|Where-Object{$_ -notin $tavernResources.CharacterId})
+            if($missingTavernResources.Count){throw "Tavern stand bundles missing from catalog: $($missingTavernResources -join ', ')"}
+
+            New-Item -ItemType Directory -Force $tavernStandBundleDirectory,$TavernStandDirectory|Out-Null
+            $tavernVersionFile=Join-Path $TavernStandDirectory '.resource-version'
+            $savedTavernVersion=if(Test-Path $tavernVersionFile){[string](Get-Content $tavernVersionFile -Raw).Trim()}else{''}
+            $existingTavernIds=@(Get-ChildItem $TavernStandDirectory -File -Filter '*.png'|ForEach-Object{$_.BaseName})
+            $tavernStandsAreCurrent=$savedTavernVersion -eq $resourceVersion -and @($desiredTavernIds|Where-Object{$_ -notin $existingTavernIds}).Count -eq 0
+            if(-not $tavernStandsAreCurrent){
+                foreach($resource in $tavernResources){
+                    Fetch-Resource ($baseUrl+$resource.Name) (Join-Path $tavernStandBundleDirectory ($resource.CharacterId+'.bundle'))
+                }
+                Invoke-Python @((Join-Path $root 'extract-character-stands.py'),$tavernStandBundleDirectory,$TavernStandDirectory)
+                Set-Content $tavernVersionFile $resourceVersion -Encoding ascii
+            }
+
+            $tavernRows=@($tavernSkinRows|ForEach-Object{
                 $assetId=[string]$_.asset_id
-                $source=Join-Path $CharacterStandDirectory ($assetId+'.png')
-                if(Test-Path $source){Copy-Item $source (Join-Path $tavernDirectory ($assetId+'.png')) -Force}
+                $source=Join-Path $TavernStandDirectory ($assetId+'.png')
                 [pscustomobject]@{
                     CharacterSkinId=$_.id;CharacterId=$_.m_character_id;SkinType=$_.type;SkinTypeName='TavernWork'
                     Name=$_.name;AssetId=$assetId;IsDefault=$_.is_default;ImageAvailable=(Test-Path $source)
                 }
             })
-            $tavernRows|Export-Csv (Join-Path $CharacterStandDirectory 'tavern-character-stands.csv') -NoTypeInformation -Encoding utf8
+            $tavernRows|Export-Csv (Join-Path $TavernStandDirectory 'tavern-character-stands.csv') -NoTypeInformation -Encoding utf8
             $tavernStandCount=@($tavernRows|Where-Object{$_.ImageAvailable}).Count
         }
     }
@@ -217,6 +241,7 @@ Write-Host '=== DotAbyss local data updater ===' -ForegroundColor Cyan
         AllAgesCharacterStands=$standCount
         TavernCharacterStands=$tavernStandCount
         CharacterStandDirectory=if($SkipCharacterStands){$null}else{[IO.Path]::GetFullPath($CharacterStandDirectory)}
+        TavernStandDirectory=if($SkipCharacterStands){$null}else{[IO.Path]::GetFullPath($TavernStandDirectory)}
         RunDirectory=$runDirectory
     }
     $summary|ConvertTo-Json|Set-Content (Join-Path $runDirectory 'result.json') -Encoding utf8

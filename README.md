@@ -27,7 +27,7 @@ update-latest.cmd
 2. 等待使用者自行登录并进入游戏主界面。
 3. 自动识别当前 WebGL 资源版本，导出本机 IndexedDB 中的主数据缓存。
 4. 通过已登录的游戏页面取得公共能力资源、地址目录和角色时间轴。
-5. 更新小技能 1–10 级、对象/条件/范围、FC 主数据、角色时间轴、缺失角色图片及全年龄完整立绘。
+5. 更新小技能 1–10 级、对象/条件/范围、FC 主数据、角色时间轴、缺失角色图片、全年龄完整立绘及酒馆完整立绘。
 6. 在覆盖公开输出前检查运行时对象关联率及 Unity 引用完整性。
 
 首次运行需要联网安装 Python 依赖，依赖只保存在仓库内被忽略的
@@ -41,6 +41,7 @@ update-latest.cmd
 .\update-latest.ps1 -SkipImages
 .\update-latest.ps1 -SkipCharacterStands
 .\update-latest.ps1 -CharacterStandDirectory D:\DotAbyss\character-stands-g
+.\update-latest.ps1 -CharacterStandDirectory D:\DotAbyss\character-stands-g -TavernStandDirectory D:\DotAbyss\tavern-character-stands
 .\update-latest.ps1 -CloseBrowserWhenDone
 ```
 
@@ -48,8 +49,10 @@ update-latest.cmd
 将默认表情与无脸身体图合成为透明 PNG。立绘默认保存在被 Git 忽略的
 `.local-assets/character-stands-g/`；如果 C 盘空间有限，可用
 `-CharacterStandDirectory` 改到其他磁盘。完整美术资源不会自动加入 Git。
-主数据中 `m_character_skins.type=2` 的酒馆工作皮肤会另外列入
-`tavern-character-stands.csv`，并复制到 `tavern/` 子目录。面部合成优先使用
+主数据中 `m_character_skins.type=2` 的酒馆工作皮肤会按 `asset_id` 精确匹配
+`CharaStand...X` prefab，并导出到 `.local-assets/tavern-character-stands/`；可用
+`-TavernStandDirectory` 改到其他磁盘。目录内的 `tavern-character-stands.csv`
+记录角色、皮肤名、资源 ID 及图片可用状态。面部合成优先使用
 未经 Unity Sprite 裁边的原始 Texture2D，以保留非对称透明边距。
 
 如果脚本提示没有检测到资源地址，在游戏主界面刷新一次，等待加载完成后按

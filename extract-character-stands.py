@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export all-ages character stands and composite their default face."""
+"""Export character stands and composite their default face."""
 
 from __future__ import annotations
 
@@ -12,7 +12,7 @@ import UnityPy
 from PIL import Image
 
 
-ID_RE = re.compile(r"(\d{9}G)", re.IGNORECASE)
+ID_RE = re.compile(r"(\d{9}[GX])", re.IGNORECASE)
 FACE_PREFERENCE = ("Normal", "Unique01", "Happy", "Closed")
 
 
@@ -132,7 +132,7 @@ def main() -> int:
         writer = csv.DictWriter(stream, fieldnames=fields)
         writer.writeheader()
         writer.writerows(rows)
-    print(f"Exported {len(rows) - failures}/{len(rows)} all-ages character stands; failures={failures}.")
+    print(f"Exported {len(rows) - failures}/{len(rows)} character stands; failures={failures}.")
     return 1 if failures else 0
 
 
