@@ -1,0 +1,1572 @@
+[
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100001",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6176287902331035698
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100002",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -501073231657401627
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100003",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 239990714448848734
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100004",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7869152319706522116
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100005",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4715835125488798287
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100006",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5904684386438612599
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100007",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5162061998213330279
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100008",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6623092789126525431
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100009",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7367603885741616908
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100010",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5137837722840477293
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100011",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7894815970444934797
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100012",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 153682703752891708
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100013",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8076196928325180132
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100014",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3975724467751567947
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100015",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1711732450228543181
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100016",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 613392912279736505
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100017",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5701152597191034694
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100018",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3296213029430454187
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100019",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2530100187872004132
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100020",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 3647670727591371548
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100021",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -550910649151323894
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100022",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5659683489584556883
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100023",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1279002287581823181
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100024",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 883860059735255138
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100025",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4521279093973986295
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100026",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7823045820497139498
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100027",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 3716836645385096472
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100028",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1756101624979518990
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100029",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6253626942725220144
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100030",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8003934748559638589
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100031",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1767663455152816300
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100032",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3562420788972974120
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100033",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2478620583039822462
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100034",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6658659129283588048
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100035",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7235938320989738851
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100036",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 859801185205775837
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100037",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8260959909430938921
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100038",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8408362142511822259
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100039",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8536405431234618734
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100040",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 3953552475407889162
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100041",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8032036749338717471
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100042",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2558150861296899245
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100043",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3509483302158578691
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100044",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4034735262401326432
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100045",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7214020878287306165
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100046",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5599367472297998052
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100047",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -9180126669760173372
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100048",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6133624545109208107
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100049",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -954803265392050127
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100050",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -905693749439836681
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100051",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1247939529349272149
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100052",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6583406482119155143
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100053",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 9015079780871473144
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100054",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2816813879332010145
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100055",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "FriendAll",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1697831892591001240
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100056",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -182402182138159149
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100057",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4427990574659064187
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100058",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7345541903222778115
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100059",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6335133271835331245
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100060",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4797071892435443307
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100061",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1147801108604926197
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100062",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8859449213363691631
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100063",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8816789458354698295
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100064",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1962648618564479410
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100065",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2781288985822432834
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100066",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 8425195618247541773
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100067",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2528375532114001849
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100068",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -9019217973816253220
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100069",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7884077277913428166
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100070",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3382415498080678069
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100071",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4145393388334613505
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100072",
+    "EffectCode": "SkillCharge",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6485462149857161013
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100073",
+    "EffectCode": "SkillCharge",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1044887542402919787
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100074",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6706621645523260297
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100075",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7006169433883838995
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100076",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4525046812894811274
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100077",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6252555661112999381
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100078",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6731484325604115254
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100079",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2378952453850867654
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100081",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4671980577083945063
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100082",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4539811492794232328
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100083",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8091838741239255884
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100084",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 695165601453006337
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100085",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 9157114652865892507
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100086",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2358066423356396821
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100087",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1379931102575229862
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100088",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5046864490931863061
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100089",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5575846359316951181
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100090",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 9123610618510159233
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100091",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 3489042126799193024
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100092",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7962410427585996381
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100093",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5473818119100583831
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100094",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7625512620318481543
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100095",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2986464075367458042
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100096",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1318475157412391261
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100097",
+    "EffectCode": "SkillCharge",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 940165379383782648
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100098",
+    "EffectCode": "SkillCharge",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8998609680793970159
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100099",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8801909353093701165
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100100",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 263556474284291909
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100101",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3323332561295742729
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100102",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6285236366304000690
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100103",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5497652866964965331
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100104",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 191012914863710652
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100106",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4034400594637822448
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100107",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4124580978344946029
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100108",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6891501479268590543
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100109",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -9014124392700758580
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100110",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5145464145437732613
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100111",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5865058337616287359
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100112",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -5452087968222212805
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100113",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1565158516997343389
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100114",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 124231091561292896
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100115",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2946227102564223299
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100116",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 8812304947074174083
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100117",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4556753700719912528
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100118",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4590059942219799258
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100119",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6280547110819861711
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100120",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2294826488347129637
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100121",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2737911289107156514
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100122",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2104060051359238974
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100123",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2790329446968487880
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100124",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -8864700964607749940
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100125",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2754640738781343162
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100126",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6573836355050358714
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100127",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -2017269121150293573
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100128",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "SpendBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3677072886041116473
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100129",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7148915580543962497
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100130",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -9200672208281105758
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100131",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1663989143800829392
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100132",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6861127895148819828
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100133",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7896952492651130254
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100134",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7632553206884732617
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100135",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6725893712444411801
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100136",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -409693009145224076
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100137",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 7804152974558716453
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100138",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1456112737992710132
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100139",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5673405707016476404
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100140",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4300420366874505882
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100141",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 531486925297307220
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100142",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -3419365507021452959
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100143",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 1774897112240493808
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100144",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 6273043995707358643
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100145",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 8437794184132882034
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100146",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "Duration",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 4185155526864985508
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100147",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2463038992690591610
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100148",
+    "EffectCode": "StackLinkedPassiveBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -6361816768078046493
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100149",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 3370670646378635780
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100150",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ActivateForceChain",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4015790641107288630
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100151",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "StartBattle",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -4186140772233798125
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100152",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2435420515880626714
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100153",
+    "EffectCode": "ParameterBuff",
+    "TargetCode": "Self",
+    "SituationCode": "ReceiveBuff",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 5675684131973232514
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100154",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -7673518764455848703
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100155",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -168627899592035421
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100156",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "BelowErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 896266259846458239
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100157",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2327771919659334339
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100158",
+    "EffectCode": "ErosionLinkedBuff",
+    "TargetCode": "Self",
+    "SituationCode": "GameStart",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": -1361472645296806989
+  },
+  {
+    "Catalog": "NetherCodeAbilityEffectAssetCatalog",
+    "AbilityEffectAssetId": "100159",
+    "EffectCode": "ChargeMana",
+    "TargetCode": "Self",
+    "SituationCode": "AboveErosion",
+    "ScopeCode": "PlayerSideOnly",
+    "SubAssetCount": 4,
+    "PathId": 2834667048362616996
+  }
+]

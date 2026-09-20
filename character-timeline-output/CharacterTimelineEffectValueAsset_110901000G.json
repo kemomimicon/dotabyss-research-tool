@@ -1,0 +1,2162 @@
+[
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "250"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "250"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "7.5"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "297.6"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "297.6"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "8.9"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "345.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "345.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "392.8"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "392.8"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "11.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "440.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "440.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "452.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "452.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "464.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "464.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "476.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "476.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "488"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "488"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "actionSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "250"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "250"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "7.5"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "7.5"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "200"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 1,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "297.6"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "297.6"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "8.9"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "8.9"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "238"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 2,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "345.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "345.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "10.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "276"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 3,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "392.8"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "392.8"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "11.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "11.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "314"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 4,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "440.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "440.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "352"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 5,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "452.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "452.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.4"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "361"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 6,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "464.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "464.2"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "13.7"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "370"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 7,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "476.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "476.1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "379"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 8,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "488"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "488"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "14.3"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "388"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 9,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.THROW_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.TARGET_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.KNOCKBACK.STRENGTH",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.HIT_COUNT",
+    "TypeName": "System.Int32",
+    "Value": "1"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.DAMAGE.DAMAGE_FIRST_PERCENT",
+    "TypeName": "Project.ValuePercent",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.ABNORMAL_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "150"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMALLOSSAPPLYPROBABILITYDOWN.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.APPLY_PROBABILITY",
+    "TypeName": "Project.ValuePermille",
+    "Value": "500"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "PRJCTL.LAND.ABNORMAL.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.RATE_PERCENT",
+    "TypeName": "Project.ValuePermille",
+    "Value": "400"
+  },
+  {
+    "CharacterId": "110901000G",
+    "SkillType": "chainSkillValues",
+    "SkillLevel": 10,
+    "EffectIndex": 1,
+    "Key": "IMPACT.ABNORMALLOSSTARGETDAMAGEUP.DURATION",
+    "TypeName": "System.Single",
+    "Value": "15"
+  }
+]

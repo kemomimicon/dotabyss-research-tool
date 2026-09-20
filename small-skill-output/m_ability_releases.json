@@ -1,0 +1,996 @@
+﻿[
+    {
+        "id":  1,
+        "m_character_ability_id":  110000102,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  2,
+        "m_character_ability_id":  110000202,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  3,
+        "m_character_ability_id":  110000302,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  4,
+        "m_character_ability_id":  110000402,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  5,
+        "m_character_ability_id":  110000502,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  6,
+        "m_character_ability_id":  110000602,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  7,
+        "m_character_ability_id":  110000702,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  8,
+        "m_character_ability_id":  110000802,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  9,
+        "m_character_ability_id":  110000902,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  10,
+        "m_character_ability_id":  110001002,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  11,
+        "m_character_ability_id":  110001102,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  12,
+        "m_character_ability_id":  110001202,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  13,
+        "m_character_ability_id":  110001302,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  14,
+        "m_character_ability_id":  110001402,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  15,
+        "m_character_ability_id":  110001502,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  16,
+        "m_character_ability_id":  110001602,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  17,
+        "m_character_ability_id":  120000102,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  18,
+        "m_character_ability_id":  120000202,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  19,
+        "m_character_ability_id":  120000302,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  20,
+        "m_character_ability_id":  120000402,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  21,
+        "m_character_ability_id":  120000502,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  22,
+        "m_character_ability_id":  120000602,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  23,
+        "m_character_ability_id":  120000802,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  24,
+        "m_character_ability_id":  120001102,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  25,
+        "m_character_ability_id":  120001202,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  26,
+        "m_character_ability_id":  120001302,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  27,
+        "m_character_ability_id":  120001402,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  28,
+        "m_character_ability_id":  120001502,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  29,
+        "m_character_ability_id":  120001602,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  30,
+        "m_character_ability_id":  120001702,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  31,
+        "m_character_ability_id":  120001802,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  32,
+        "m_character_ability_id":  130000103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  33,
+        "m_character_ability_id":  130000203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  34,
+        "m_character_ability_id":  130000303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  35,
+        "m_character_ability_id":  130000403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  36,
+        "m_character_ability_id":  130000503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  37,
+        "m_character_ability_id":  130000603,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  38,
+        "m_character_ability_id":  130000703,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  39,
+        "m_character_ability_id":  130000803,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  40,
+        "m_character_ability_id":  130000903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  41,
+        "m_character_ability_id":  130001003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  42,
+        "m_character_ability_id":  130001103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  43,
+        "m_character_ability_id":  130001203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  44,
+        "m_character_ability_id":  130001303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  45,
+        "m_character_ability_id":  130001403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  46,
+        "m_character_ability_id":  130001503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  47,
+        "m_character_ability_id":  130001603,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  48,
+        "m_character_ability_id":  130001703,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  49,
+        "m_character_ability_id":  130001803,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  50,
+        "m_character_ability_id":  130001903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  51,
+        "m_character_ability_id":  130002003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  52,
+        "m_character_ability_id":  130002103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  53,
+        "m_character_ability_id":  130002203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  54,
+        "m_character_ability_id":  130002303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  55,
+        "m_character_ability_id":  130002403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  56,
+        "m_character_ability_id":  130002503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  57,
+        "m_character_ability_id":  130002603,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  58,
+        "m_character_ability_id":  130002703,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  59,
+        "m_character_ability_id":  130002803,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  60,
+        "m_character_ability_id":  130002903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  61,
+        "m_character_ability_id":  130003003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  62,
+        "m_character_ability_id":  130003103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  63,
+        "m_character_ability_id":  130003203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  64,
+        "m_character_ability_id":  130003303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  65,
+        "m_character_ability_id":  130003403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  66,
+        "m_character_ability_id":  130003503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  67,
+        "m_character_ability_id":  130003603,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  68,
+        "m_character_ability_id":  130003703,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  69,
+        "m_character_ability_id":  130003803,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  70,
+        "m_character_ability_id":  130003903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  71,
+        "m_character_ability_id":  130004003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  72,
+        "m_character_ability_id":  130004103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  73,
+        "m_character_ability_id":  130004203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  74,
+        "m_character_ability_id":  130004303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  75,
+        "m_character_ability_id":  130004403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  76,
+        "m_character_ability_id":  130004503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  77,
+        "m_character_ability_id":  130004603,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  78,
+        "m_character_ability_id":  130004703,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  79,
+        "m_character_ability_id":  130004803,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  80,
+        "m_character_ability_id":  130000103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  81,
+        "m_character_ability_id":  130000203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  82,
+        "m_character_ability_id":  130000303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  83,
+        "m_character_ability_id":  130000403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  84,
+        "m_character_ability_id":  130000503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  85,
+        "m_character_ability_id":  130000603,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  86,
+        "m_character_ability_id":  130000703,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  87,
+        "m_character_ability_id":  130000803,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  88,
+        "m_character_ability_id":  130000903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  89,
+        "m_character_ability_id":  130001003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  90,
+        "m_character_ability_id":  130001103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  91,
+        "m_character_ability_id":  130001203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  92,
+        "m_character_ability_id":  130001303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  93,
+        "m_character_ability_id":  130001403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  94,
+        "m_character_ability_id":  130001503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  95,
+        "m_character_ability_id":  130001603,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  96,
+        "m_character_ability_id":  130001703,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  97,
+        "m_character_ability_id":  130001803,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  98,
+        "m_character_ability_id":  130001903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  99,
+        "m_character_ability_id":  130002003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  100,
+        "m_character_ability_id":  130002103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  101,
+        "m_character_ability_id":  130002203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  102,
+        "m_character_ability_id":  130002303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  103,
+        "m_character_ability_id":  130002403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  104,
+        "m_character_ability_id":  130002503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  105,
+        "m_character_ability_id":  130002603,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  106,
+        "m_character_ability_id":  130002703,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  107,
+        "m_character_ability_id":  130002803,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  108,
+        "m_character_ability_id":  130002903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  109,
+        "m_character_ability_id":  130003003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  110,
+        "m_character_ability_id":  130003103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  111,
+        "m_character_ability_id":  130003203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  112,
+        "m_character_ability_id":  130003303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  113,
+        "m_character_ability_id":  130003403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  114,
+        "m_character_ability_id":  130003503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  115,
+        "m_character_ability_id":  130003603,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  116,
+        "m_character_ability_id":  130003703,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  117,
+        "m_character_ability_id":  130003803,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  118,
+        "m_character_ability_id":  130003903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  119,
+        "m_character_ability_id":  130004003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  120,
+        "m_character_ability_id":  130004103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  121,
+        "m_character_ability_id":  130004203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  122,
+        "m_character_ability_id":  130004303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  123,
+        "m_character_ability_id":  130004403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  124,
+        "m_character_ability_id":  130004503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  125,
+        "m_character_ability_id":  130004603,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  126,
+        "m_character_ability_id":  130004703,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  127,
+        "m_character_ability_id":  130004803,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  128,
+        "m_character_ability_id":  120001902,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  129,
+        "m_character_ability_id":  130004903,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  130,
+        "m_character_ability_id":  130005003,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  131,
+        "m_character_ability_id":  130004903,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  132,
+        "m_character_ability_id":  130005003,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  133,
+        "m_character_ability_id":  130005103,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  134,
+        "m_character_ability_id":  130005203,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  135,
+        "m_character_ability_id":  130005103,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  136,
+        "m_character_ability_id":  130005203,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  137,
+        "m_character_ability_id":  130005303,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  138,
+        "m_character_ability_id":  130005303,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  139,
+        "m_character_ability_id":  130005403,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  140,
+        "m_character_ability_id":  130005403,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    },
+    {
+        "id":  141,
+        "m_character_ability_id":  130005503,
+        "level":  1,
+        "condition_type":  2,
+        "condition_value":  5
+    },
+    {
+        "id":  142,
+        "m_character_ability_id":  130005503,
+        "level":  6,
+        "condition_type":  2,
+        "condition_value":  15
+    }
+]

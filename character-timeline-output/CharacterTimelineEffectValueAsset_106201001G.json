@@ -1,0 +1,272 @@
+﻿[
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "100"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "119"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "138"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "157"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "176"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "180.7"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "185.4"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "190.1"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "194.8"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "125"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "60"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "148.8"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "71"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "172.6"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "82"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "196.4"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "93"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "220.2"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "104"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "226.1"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "106"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "232"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "108"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "237.9"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "110"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "243.8"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "112"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "RECOVER.HEAL_PERCENT",
+        "TypeName":  "Project.ValuePercent",
+        "Value":  "250"
+    },
+    {
+        "CharacterId":  "106201001G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "ZEAL.ATTACKUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "120"
+    }
+]

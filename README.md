@@ -4,14 +4,59 @@
 
 ## 当前成果
 
-- 61 名角色及基础属性。
+- 72 名角色及基础属性。
 - 普攻循环、可观察命中/投射物事件和时间轴。
-- 151 个角色小技能；完整的 1–10 级描述、觉醒阶段、效果段、目标、触发场景、作用范围和解锁条件。
-- FC 主数据及 59/61 个技能级初始选敌配置。
+- 184 个角色小技能；完整的 1–10 级描述、觉醒阶段、效果段、目标、触发场景、作用范围和解锁条件。
+- FC 主数据及 63/72 个技能级初始选敌配置。
 - 敌方时间轴与效果值解析脚本。
 - 角色图片画廊。
 
 详细覆盖率与技术边界见 [`small-skill-output/STATUS.md`](small-skill-output/STATUS.md)。
+
+## 本地一键更新
+
+Windows 用户可以直接双击：
+
+```text
+update-latest.cmd
+```
+
+脚本会执行以下工作：
+
+1. 启动使用独立配置目录的 Edge，不读取日常浏览器 Cookie。
+2. 等待使用者自行登录并进入游戏主界面。
+3. 自动识别当前 WebGL 资源版本，导出本机 IndexedDB 中的主数据缓存。
+4. 通过已登录的游戏页面取得公共能力资源、地址目录和角色时间轴。
+5. 更新小技能 1–10 级、对象/条件/范围、FC 主数据、角色时间轴、缺失角色图片、全年龄完整立绘及酒馆完整立绘。
+6. 在覆盖公开输出前检查运行时对象关联率及 Unity 引用完整性。
+
+首次运行需要联网安装 Python 依赖，依赖只保存在仓库内被忽略的
+`.local-python/`。原始缓存和临时资源保存在 `.local-update/`，不会进入 Git。
+脚本不会自动提交或推送 GitHub，也不会绕过登录、加密或服务器权限。
+
+命令行用法：
+
+```powershell
+.\update-latest.ps1
+.\update-latest.ps1 -SkipImages
+.\update-latest.ps1 -SkipCharacterStands
+.\update-latest.ps1 -CharacterStandDirectory D:\DotAbyss\character-stands-g
+.\update-latest.ps1 -CharacterStandDirectory D:\DotAbyss\character-stands-g -TavernStandDirectory D:\DotAbyss\tavern-character-stands
+.\update-latest.ps1 -CloseBrowserWhenDone
+```
+
+全年龄立绘来自 `CharaStand...G` prefab。导出器会使用 prefab 中的布局坐标，
+将默认表情与无脸身体图合成为透明 PNG。立绘默认保存在被 Git 忽略的
+`.local-assets/character-stands-g/`；如果 C 盘空间有限，可用
+`-CharacterStandDirectory` 改到其他磁盘。完整美术资源不会自动加入 Git。
+主数据中 `m_character_skins.type=2` 的酒馆工作皮肤会按 `asset_id` 精确匹配
+`CharaStand...X` prefab，并导出到 `.local-assets/tavern-character-stands/`；可用
+`-TavernStandDirectory` 改到其他磁盘。目录内的 `tavern-character-stands.csv`
+记录角色、皮肤名、资源 ID 及图片可用状态。面部合成优先使用
+未经 Unity Sprite 裁边的原始 Texture2D，以保留非对称透明边距。
+
+如果脚本提示没有检测到资源地址，在游戏主界面刷新一次，等待加载完成后按
+Enter 重试。代理软件应保持能让 Edge 正常进入游戏的模式。
 
 ## 小技能数据
 
@@ -35,9 +80,9 @@ small-skill-output/character-small-skills-long.csv
 
 - 稀有度 1：16 名角色，每名 2 个小技能
 - 稀有度 2：16 名角色，每名 2 个小技能
-- 稀有度 3：29 名角色，每名 3 个小技能
+- 稀有度 3：40 名角色，每名 3 个小技能
 
-因此 151 个技能是完整数量，并非 61 × 3。
+因此 184 个技能是完整数量，并非 72 × 3。
 
 重新解析：
 
@@ -50,6 +95,16 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass `
   -File .\parse-small-skill-master.ps1 `
   -MasterFile C:\path\to\download-cache.dat
 ```
+
+也可直接解析 Unity bundle，避免同名 `AbilitySubAsset` 在普通文件导出时互相覆盖：
+
+```powershell
+python -m pip install -r .\requirements-unitypy.txt
+python .\extract-ability-effects-unitypy.py C:\path\to\general-common.bundle .\small-skill-output
+python .\extract-character-timelines-unitypy.py C:\path\to\timeline-catalog.bundle .\character-timeline-output
+```
+
+本次版本变化见 [`UPDATE_2026-09-19.md`](UPDATE_2026-09-19.md)。
 
 ## FC 数据
 

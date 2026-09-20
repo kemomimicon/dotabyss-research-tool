@@ -1,0 +1,30 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "クライアント効果",
+        "type":  "Battle",
+        "grade":  "White",
+        "is_shown":  0
+    },
+    {
+        "id":  900,
+        "name":  "エクストラドロップ",
+        "type":  "Support",
+        "grade":  "White",
+        "is_shown":  1
+    },
+    {
+        "id":  901,
+        "name":  "ドロップ率上昇",
+        "type":  "Support",
+        "grade":  "White",
+        "is_shown":  1
+    },
+    {
+        "id":  902,
+        "name":  "探索力上昇",
+        "type":  "Support",
+        "grade":  "White",
+        "is_shown":  1
+    }
+]

@@ -1,0 +1,632 @@
+﻿[
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "219"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "238"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "257"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "262"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "280"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "284"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "288"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "292"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "actionSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "200"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  1,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "219"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  2,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "238"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  3,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "257"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  4,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "262"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  5,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "280"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  6,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "284"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  7,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "288"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  8,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "292"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  9,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.RATE_PERCENT",
+        "TypeName":  "Project.ValuePermille",
+        "Value":  "300"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "SKILLDAMAGEUP.DURATION",
+        "TypeName":  "System.Single",
+        "Value":  "30"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "CRESTIMPACT.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    },
+    {
+        "CharacterId":  "101401000G",
+        "SkillType":  "chainSkillValues",
+        "SkillLevel":  10,
+        "EffectIndex":  1,
+        "Key":  "IMPACT.STACKCONSUMPTIONSUBSTITUTE.TARGET_COUNT",
+        "TypeName":  "System.Int32",
+        "Value":  "1"
+    }
+]
